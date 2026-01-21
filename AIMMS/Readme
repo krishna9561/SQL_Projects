@@ -1,0 +1,66 @@
+# 🏥 AIIMS Hospital Data Analysis using SQL
+
+## 📌 Project Overview
+This project performs in-depth SQL analysis on AIIMS hospital data to extract
+business insights related to patients, doctors, departments, billing, and insurance.
+
+The project demonstrates real-world SQL skills required for a Data Analyst role.
+
+---
+
+## 🛠 Tools Used
+- SQL (MySQL compatible)
+- CSV datasets
+- GitHub
+
+---
+
+## 📂 Datasets
+- Patients
+- Doctors
+- Visits
+- Billing
+- Departments
+- Insurance Claims
+- States & Districts
+
+---
+
+## 🔍 Key Analysis Performed
+- Repeat patient identification
+- Doctor-wise patient load
+- Department-wise revenue analysis
+- Insurance claim trends
+- Recent admissions
+- High revenue departments
+
+---
+
+## 🧠 SQL Concepts Used
+- JOINs (INNER, LEFT)
+- GROUP BY & HAVING
+- Subqueries
+- CTEs (WITH clause)
+- Window Functions (RANK)
+- Aggregations
+
+---
+
+## ▶ How to Run
+1. Create database `aiims`
+2. Import CSV files into tables
+3. Run `aiims_analysis.sql`
+
+---
+
+## 🎯 Outcome
+This project simulates real hospital analytics and is suitable for:
+- Data Analyst
+- Business Analyst
+- SQL Developer roles
+
+---
+
+## 👤 Author
+**Krishna Takate**
+Aspiring Data Analyst
