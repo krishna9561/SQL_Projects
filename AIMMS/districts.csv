@@ -1,0 +1,40 @@
+district_id,state_code,district_name
+1,DL,New Delhi
+2,DL,North Delhi
+3,DL,South Delhi
+4,DL,East Delhi
+5,DL,West Delhi
+6,MH,Mumbai City
+7,MH,Pune
+8,MH,Nashik
+9,MH,Nagpur
+10,MH,Thane
+11,UP,Noida
+12,UP,Ghaziabad
+13,UP,Lucknow
+14,UP,Kanpur
+15,UP,Agra
+16,KA,Bengaluru Urban
+17,KA,Mysuru
+18,KA,Mangaluru
+19,KA,Hubballi
+20,TN,Chennai
+21,TN,Coimbatore
+22,TN,Madurai
+23,TN,Salem
+24,GJ,Ahmedabad
+25,GJ,Surat
+26,GJ,Vadodara
+27,GJ,Rajkot
+28,RJ,Jaipur
+29,RJ,Jodhpur
+30,RJ,Udaipur
+31,RJ,Kota
+32,WB,Kolkata
+33,WB,Howrah
+34,WB,Durgapur
+35,BR,Patna
+36,BR,Gaya
+37,BR,Bhagalpur
+38,TG,Hyderabad
+39,TG,Warangal

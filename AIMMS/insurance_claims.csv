@@ -1,0 +1,2430 @@
+claim_id,bill_id,provider,covered_amount,claim_status
+50001,40739,ICICI Lombard,95229,Pending
+50002,44729,Star Health,38820,Approved
+50003,43535,Star Health,71799,Approved
+50004,47835,HDFC Ergo,94664,Approved
+50005,41406,New India Assurance,102252,Rejected
+50006,47272,HDFC Ergo,19404,Approved
+50007,42287,New India Assurance,18068,Rejected
+50008,41957,ICICI Lombard,98899,Rejected
+50009,40711,HDFC Ergo,38071,Pending
+50010,46148,Star Health,52955,Approved
+50011,46655,ICICI Lombard,64119,Approved
+50012,44697,New India Assurance,113214,Rejected
+50013,44686,ICICI Lombard,14355,Approved
+50014,43530,HDFC Ergo,53718,Rejected
+50015,44449,Star Health,105216,Approved
+50016,45162,ICICI Lombard,68243,Approved
+50017,46642,HDFC Ergo,60202,Approved
+50018,46260,HDFC Ergo,100351,Approved
+50019,46318,HDFC Ergo,69393,Rejected
+50020,43868,HDFC Ergo,48628,Pending
+50021,44711,New India Assurance,50258,Rejected
+50022,45130,New India Assurance,66547,Approved
+50023,41797,New India Assurance,78850,Approved
+50024,41494,HDFC Ergo,13108,Approved
+50025,47499,New India Assurance,7384,Approved
+50026,43503,Star Health,113809,Pending
+50027,41620,Star Health,94400,Approved
+50028,47327,ICICI Lombard,57903,Approved
+50029,42351,New India Assurance,72928,Approved
+50030,44301,Star Health,93426,Rejected
+50031,46012,Star Health,14075,Rejected
+50032,43142,New India Assurance,36391,Approved
+50033,41328,Star Health,43966,Approved
+50034,40686,ICICI Lombard,73440,Rejected
+50035,47866,New India Assurance,86474,Approved
+50036,45818,Star Health,4664,Approved
+50037,40759,HDFC Ergo,31088,Rejected
+50038,47332,HDFC Ergo,75156,Approved
+50039,44986,Star Health,114932,Approved
+50040,42252,New India Assurance,101308,Approved
+50041,47174,ICICI Lombard,3480,Pending
+50042,43771,Star Health,6179,Approved
+50043,45712,ICICI Lombard,8958,Rejected
+50044,42809,HDFC Ergo,72793,Approved
+50045,44720,New India Assurance,42597,Approved
+50046,47614,ICICI Lombard,107658,Approved
+50047,47987,Star Health,49427,Pending
+50048,40176,HDFC Ergo,105057,Pending
+50049,45022,ICICI Lombard,104195,Approved
+50050,47145,New India Assurance,65009,Approved
+50051,45177,Star Health,45372,Rejected
+50052,41151,ICICI Lombard,30930,Approved
+50053,46469,Star Health,67751,Pending
+50054,46269,Star Health,98019,Approved
+50055,40775,ICICI Lombard,46699,Pending
+50056,42438,HDFC Ergo,2385,Approved
+50057,43793,HDFC Ergo,48850,Rejected
+50058,47839,HDFC Ergo,65544,Approved
+50059,42748,Star Health,15537,Approved
+50060,41261,ICICI Lombard,50657,Approved
+50061,41064,ICICI Lombard,69155,Approved
+50062,41600,Star Health,111105,Approved
+50063,45198,New India Assurance,112452,Rejected
+50064,46430,HDFC Ergo,13730,Approved
+50065,40529,ICICI Lombard,80249,Approved
+50066,42143,ICICI Lombard,9525,Approved
+50067,44939,HDFC Ergo,39551,Approved
+50068,40870,HDFC Ergo,96585,Approved
+50069,46672,HDFC Ergo,39454,Approved
+50070,47216,HDFC Ergo,16612,Approved
+50071,46892,New India Assurance,82449,Rejected
+50072,43962,New India Assurance,112964,Approved
+50073,43675,Star Health,119113,Approved
+50074,47728,HDFC Ergo,82075,Approved
+50075,42219,New India Assurance,66385,Approved
+50076,43779,Star Health,88531,Approved
+50077,41991,HDFC Ergo,10534,Approved
+50078,43622,New India Assurance,91183,Approved
+50079,43866,HDFC Ergo,56286,Pending
+50080,40573,Star Health,75334,Approved
+50081,41076,New India Assurance,50145,Approved
+50082,45329,Star Health,27914,Pending
+50083,43169,HDFC Ergo,96769,Rejected
+50084,47237,Star Health,106894,Pending
+50085,46379,ICICI Lombard,12131,Rejected
+50086,47174,HDFC Ergo,83375,Rejected
+50087,41376,HDFC Ergo,11367,Approved
+50088,44150,Star Health,113033,Rejected
+50089,47168,HDFC Ergo,7057,Approved
+50090,44597,New India Assurance,25735,Approved
+50091,47287,ICICI Lombard,77119,Approved
+50092,42169,HDFC Ergo,70064,Rejected
+50093,47208,ICICI Lombard,77049,Approved
+50094,42286,HDFC Ergo,117429,Approved
+50095,43984,New India Assurance,86138,Approved
+50096,40923,New India Assurance,107081,Approved
+50097,42069,New India Assurance,24252,Pending
+50098,41329,ICICI Lombard,119696,Rejected
+50099,46086,New India Assurance,50098,Approved
+50100,45558,HDFC Ergo,14197,Approved
+50101,42466,Star Health,12316,Approved
+50102,41954,HDFC Ergo,93986,Rejected
+50103,43751,Star Health,100574,Approved
+50104,41186,HDFC Ergo,51792,Approved
+50105,42975,New India Assurance,98008,Rejected
+50106,46595,ICICI Lombard,53234,Rejected
+50107,43111,ICICI Lombard,77834,Pending
+50108,44227,Star Health,98891,Approved
+50109,40240,Star Health,89740,Pending
+50110,44869,ICICI Lombard,10674,Pending
+50111,40789,HDFC Ergo,66356,Approved
+50112,44419,New India Assurance,34512,Rejected
+50113,40874,ICICI Lombard,38431,Rejected
+50114,40686,New India Assurance,98032,Approved
+50115,43303,ICICI Lombard,72302,Approved
+50116,40403,HDFC Ergo,61613,Pending
+50117,47047,New India Assurance,89586,Pending
+50118,46191,HDFC Ergo,89908,Rejected
+50119,47620,New India Assurance,113478,Pending
+50120,43299,ICICI Lombard,77893,Approved
+50121,41237,New India Assurance,60331,Approved
+50122,46027,HDFC Ergo,110892,Pending
+50123,47817,Star Health,105596,Pending
+50124,40957,Star Health,106175,Approved
+50125,41780,ICICI Lombard,93260,Approved
+50126,41123,New India Assurance,7180,Approved
+50127,46045,Star Health,88796,Approved
+50128,42105,HDFC Ergo,18387,Approved
+50129,44015,ICICI Lombard,19237,Approved
+50130,42510,New India Assurance,100487,Pending
+50131,41701,New India Assurance,74303,Approved
+50132,45154,HDFC Ergo,30190,Approved
+50133,43675,ICICI Lombard,12080,Approved
+50134,46459,HDFC Ergo,115268,Approved
+50135,44322,New India Assurance,38238,Approved
+50136,44386,ICICI Lombard,54623,Rejected
+50137,45811,New India Assurance,100925,Approved
+50138,41196,Star Health,37588,Rejected
+50139,45125,HDFC Ergo,95525,Approved
+50140,46462,HDFC Ergo,48408,Rejected
+50141,44057,New India Assurance,45994,Pending
+50142,47208,ICICI Lombard,96584,Approved
+50143,40921,HDFC Ergo,52716,Pending
+50144,45246,HDFC Ergo,44208,Rejected
+50145,43514,HDFC Ergo,41665,Rejected
+50146,44190,ICICI Lombard,66354,Approved
+50147,41160,New India Assurance,33651,Approved
+50148,41566,New India Assurance,14529,Pending
+50149,47558,ICICI Lombard,116787,Pending
+50150,47513,New India Assurance,107469,Pending
+50151,45414,ICICI Lombard,13235,Approved
+50152,46481,Star Health,31946,Approved
+50153,41671,Star Health,47184,Approved
+50154,41707,HDFC Ergo,33487,Approved
+50155,47738,HDFC Ergo,8285,Approved
+50156,47286,ICICI Lombard,36855,Pending
+50157,40223,Star Health,31486,Approved
+50158,42429,HDFC Ergo,30999,Pending
+50159,44623,HDFC Ergo,78127,Rejected
+50160,46745,Star Health,75136,Approved
+50161,47206,Star Health,27728,Rejected
+50162,44696,New India Assurance,53465,Pending
+50163,47226,HDFC Ergo,26812,Approved
+50164,46532,New India Assurance,100099,Approved
+50165,45630,New India Assurance,30557,Approved
+50166,40573,Star Health,70668,Rejected
+50167,43875,HDFC Ergo,60308,Pending
+50168,41877,ICICI Lombard,50434,Approved
+50169,46941,ICICI Lombard,32542,Rejected
+50170,44151,New India Assurance,72118,Approved
+50171,42047,ICICI Lombard,36814,Rejected
+50172,46610,ICICI Lombard,101909,Rejected
+50173,44945,Star Health,91182,Approved
+50174,41544,Star Health,51087,Rejected
+50175,45155,HDFC Ergo,116602,Approved
+50176,42410,New India Assurance,2062,Approved
+50177,47682,Star Health,63658,Pending
+50178,42340,New India Assurance,95846,Approved
+50179,42343,Star Health,107986,Approved
+50180,43209,New India Assurance,8344,Rejected
+50181,44487,New India Assurance,118651,Approved
+50182,44117,ICICI Lombard,98448,Approved
+50183,41089,New India Assurance,34454,Pending
+50184,43897,Star Health,74156,Approved
+50185,44050,New India Assurance,25917,Rejected
+50186,46929,Star Health,110315,Approved
+50187,47380,Star Health,60383,Approved
+50188,46280,ICICI Lombard,98155,Approved
+50189,41330,New India Assurance,75300,Approved
+50190,41992,Star Health,112141,Approved
+50191,44948,Star Health,79668,Approved
+50192,45236,New India Assurance,46764,Rejected
+50193,47967,New India Assurance,74053,Pending
+50194,47865,Star Health,97976,Approved
+50195,40410,New India Assurance,9786,Approved
+50196,46947,HDFC Ergo,97753,Approved
+50197,41897,New India Assurance,23422,Approved
+50198,40841,HDFC Ergo,19698,Approved
+50199,45815,Star Health,100668,Pending
+50200,44921,ICICI Lombard,1086,Pending
+50201,40647,Star Health,52865,Approved
+50202,40209,New India Assurance,34245,Pending
+50203,45320,Star Health,4437,Pending
+50204,45952,New India Assurance,25968,Rejected
+50205,41547,HDFC Ergo,93885,Pending
+50206,43345,New India Assurance,36900,Approved
+50207,43503,ICICI Lombard,71548,Pending
+50208,44979,ICICI Lombard,91632,Rejected
+50209,44057,New India Assurance,94024,Approved
+50210,42339,ICICI Lombard,73740,Approved
+50211,47531,ICICI Lombard,17537,Approved
+50212,41621,ICICI Lombard,73761,Rejected
+50213,47597,Star Health,18914,Pending
+50214,46829,New India Assurance,108598,Approved
+50215,46649,Star Health,77958,Rejected
+50216,46103,ICICI Lombard,24973,Approved
+50217,47792,HDFC Ergo,62237,Approved
+50218,42379,Star Health,29735,Pending
+50219,47206,HDFC Ergo,113538,Approved
+50220,40843,New India Assurance,44258,Approved
+50221,46931,Star Health,3730,Approved
+50222,40281,HDFC Ergo,113458,Pending
+50223,46404,ICICI Lombard,118695,Rejected
+50224,46767,Star Health,75280,Approved
+50225,46010,New India Assurance,8728,Approved
+50226,40068,ICICI Lombard,77995,Rejected
+50227,43620,HDFC Ergo,14055,Approved
+50228,47872,ICICI Lombard,46541,Rejected
+50229,43241,New India Assurance,63888,Approved
+50230,40494,New India Assurance,49347,Approved
+50231,45294,Star Health,114179,Approved
+50232,44688,ICICI Lombard,12355,Approved
+50233,45504,Star Health,68639,Approved
+50234,43306,HDFC Ergo,67578,Approved
+50235,40573,HDFC Ergo,11008,Pending
+50236,40829,Star Health,50706,Pending
+50237,40487,New India Assurance,63013,Approved
+50238,45684,ICICI Lombard,78765,Rejected
+50239,40862,ICICI Lombard,35684,Approved
+50240,46869,ICICI Lombard,99614,Pending
+50241,43425,Star Health,109370,Approved
+50242,41896,New India Assurance,17763,Approved
+50243,42885,New India Assurance,87361,Approved
+50244,47829,Star Health,52214,Approved
+50245,44264,Star Health,53242,Approved
+50246,47921,Star Health,96203,Pending
+50247,40237,HDFC Ergo,100082,Approved
+50248,45390,New India Assurance,4046,Pending
+50249,47192,Star Health,74738,Approved
+50250,47439,New India Assurance,43725,Approved
+50251,43630,New India Assurance,6055,Approved
+50252,42587,New India Assurance,92882,Approved
+50253,43910,Star Health,26917,Rejected
+50254,40833,Star Health,14663,Approved
+50255,44690,New India Assurance,70447,Rejected
+50256,44807,New India Assurance,40090,Approved
+50257,40418,Star Health,71897,Pending
+50258,44542,ICICI Lombard,75724,Pending
+50259,40692,New India Assurance,1570,Pending
+50260,41539,HDFC Ergo,100147,Rejected
+50261,46996,Star Health,44968,Rejected
+50262,41592,Star Health,22358,Pending
+50263,40184,Star Health,15428,Pending
+50264,40468,New India Assurance,4662,Approved
+50265,47112,HDFC Ergo,41499,Rejected
+50266,46320,New India Assurance,64772,Pending
+50267,46877,HDFC Ergo,11920,Rejected
+50268,41470,HDFC Ergo,88088,Approved
+50269,47848,Star Health,24200,Rejected
+50270,42508,ICICI Lombard,19907,Approved
+50271,43302,ICICI Lombard,100956,Rejected
+50272,40647,ICICI Lombard,45557,Rejected
+50273,44703,HDFC Ergo,30728,Approved
+50274,42989,New India Assurance,96246,Approved
+50275,41792,ICICI Lombard,86014,Pending
+50276,45694,New India Assurance,32954,Approved
+50277,44181,New India Assurance,78061,Approved
+50278,42039,New India Assurance,48613,Approved
+50279,45684,HDFC Ergo,18178,Approved
+50280,41122,New India Assurance,103027,Approved
+50281,45835,ICICI Lombard,95810,Approved
+50282,47237,ICICI Lombard,87314,Approved
+50283,44783,Star Health,109086,Approved
+50284,47061,Star Health,115988,Pending
+50285,40907,ICICI Lombard,72507,Approved
+50286,40549,Star Health,101416,Approved
+50287,41863,Star Health,117317,Approved
+50288,41004,Star Health,98481,Pending
+50289,42453,Star Health,91108,Rejected
+50290,46191,New India Assurance,60143,Approved
+50291,43533,ICICI Lombard,118385,Rejected
+50292,40844,Star Health,62181,Approved
+50293,42491,Star Health,62872,Pending
+50294,44648,Star Health,102439,Rejected
+50295,41035,HDFC Ergo,47428,Pending
+50296,41387,Star Health,77172,Pending
+50297,41330,New India Assurance,39152,Approved
+50298,40388,HDFC Ergo,51412,Pending
+50299,40945,ICICI Lombard,2875,Pending
+50300,47168,Star Health,15299,Approved
+50301,41360,Star Health,7766,Rejected
+50302,40126,HDFC Ergo,52416,Approved
+50303,43228,ICICI Lombard,30780,Approved
+50304,46469,HDFC Ergo,88656,Approved
+50305,47168,HDFC Ergo,101556,Approved
+50306,41500,Star Health,85244,Rejected
+50307,45106,Star Health,24436,Rejected
+50308,45163,Star Health,72691,Approved
+50309,45477,New India Assurance,47399,Approved
+50310,45736,Star Health,26999,Rejected
+50311,46902,New India Assurance,72502,Approved
+50312,42928,HDFC Ergo,93668,Approved
+50313,41605,New India Assurance,63292,Pending
+50314,47165,New India Assurance,17036,Approved
+50315,47071,ICICI Lombard,73802,Pending
+50316,43570,ICICI Lombard,115939,Rejected
+50317,47174,ICICI Lombard,53573,Approved
+50318,43579,Star Health,44427,Approved
+50319,45746,Star Health,112350,Approved
+50320,43947,HDFC Ergo,87951,Approved
+50321,40696,ICICI Lombard,59942,Rejected
+50322,44624,New India Assurance,106539,Approved
+50323,41982,Star Health,71010,Pending
+50324,45015,Star Health,66581,Approved
+50325,42491,New India Assurance,48131,Approved
+50326,42999,ICICI Lombard,75314,Pending
+50327,41854,HDFC Ergo,107299,Approved
+50328,42201,ICICI Lombard,38082,Rejected
+50329,47250,Star Health,74587,Pending
+50330,46194,Star Health,83878,Approved
+50331,41692,Star Health,60848,Approved
+50332,40655,Star Health,100872,Approved
+50333,45013,HDFC Ergo,9586,Approved
+50334,41316,Star Health,44491,Approved
+50335,43350,HDFC Ergo,26239,Pending
+50336,41993,New India Assurance,56667,Approved
+50337,44730,ICICI Lombard,56272,Pending
+50338,40800,Star Health,84183,Approved
+50339,43839,Star Health,37536,Pending
+50340,41464,Star Health,6493,Rejected
+50341,40962,ICICI Lombard,70279,Pending
+50342,44130,ICICI Lombard,90810,Pending
+50343,42329,HDFC Ergo,7337,Pending
+50344,46307,HDFC Ergo,108111,Approved
+50345,42924,Star Health,59068,Rejected
+50346,47652,ICICI Lombard,64050,Approved
+50347,45764,Star Health,74388,Approved
+50348,47801,HDFC Ergo,96066,Approved
+50349,42503,Star Health,3771,Pending
+50350,41224,Star Health,32678,Approved
+50351,45405,New India Assurance,66924,Pending
+50352,45568,HDFC Ergo,27063,Pending
+50353,43943,HDFC Ergo,61995,Approved
+50354,42197,Star Health,81101,Approved
+50355,47609,Star Health,34310,Approved
+50356,43406,New India Assurance,75076,Rejected
+50357,47018,ICICI Lombard,68193,Approved
+50358,42510,ICICI Lombard,31014,Approved
+50359,41819,Star Health,114063,Approved
+50360,45973,ICICI Lombard,50853,Approved
+50361,47018,New India Assurance,71467,Pending
+50362,44075,New India Assurance,83884,Approved
+50363,47487,ICICI Lombard,45595,Approved
+50364,44181,HDFC Ergo,64453,Rejected
+50365,41647,HDFC Ergo,74841,Approved
+50366,45087,Star Health,34007,Approved
+50367,45706,New India Assurance,18526,Approved
+50368,44314,HDFC Ergo,9646,Approved
+50369,40139,New India Assurance,56448,Approved
+50370,44939,HDFC Ergo,32949,Pending
+50371,46527,HDFC Ergo,34851,Pending
+50372,40856,Star Health,10383,Pending
+50373,46737,HDFC Ergo,42640,Approved
+50374,40541,HDFC Ergo,89028,Pending
+50375,42786,New India Assurance,23051,Approved
+50376,40536,New India Assurance,83106,Rejected
+50377,40709,HDFC Ergo,15249,Rejected
+50378,42381,New India Assurance,103626,Approved
+50379,47216,ICICI Lombard,72306,Approved
+50380,45106,HDFC Ergo,72707,Approved
+50381,43032,ICICI Lombard,41462,Approved
+50382,44103,HDFC Ergo,56438,Approved
+50383,45738,Star Health,41913,Approved
+50384,43623,New India Assurance,42532,Approved
+50385,42752,ICICI Lombard,35689,Approved
+50386,46931,Star Health,56453,Approved
+50387,43406,Star Health,12519,Pending
+50388,41374,ICICI Lombard,60592,Pending
+50389,44027,HDFC Ergo,107125,Approved
+50390,43665,Star Health,61147,Approved
+50391,43786,New India Assurance,3404,Pending
+50392,47865,Star Health,34211,Approved
+50393,47921,Star Health,2316,Approved
+50394,45850,Star Health,36172,Pending
+50395,45636,Star Health,75336,Rejected
+50396,47534,ICICI Lombard,1457,Approved
+50397,45706,New India Assurance,57707,Approved
+50398,43181,ICICI Lombard,71748,Pending
+50399,41335,Star Health,96745,Approved
+50400,46772,ICICI Lombard,84615,Approved
+50401,46300,ICICI Lombard,82837,Approved
+50402,41570,HDFC Ergo,68973,Pending
+50403,43900,HDFC Ergo,93013,Approved
+50404,45858,HDFC Ergo,77490,Approved
+50405,40687,ICICI Lombard,36352,Approved
+50406,45646,ICICI Lombard,69160,Approved
+50407,45679,ICICI Lombard,118009,Rejected
+50408,47700,New India Assurance,109866,Rejected
+50409,41133,ICICI Lombard,84545,Approved
+50410,42467,ICICI Lombard,103904,Pending
+50411,42578,ICICI Lombard,31156,Approved
+50412,47269,New India Assurance,30130,Approved
+50413,47288,New India Assurance,52716,Approved
+50414,45201,ICICI Lombard,111596,Approved
+50415,45247,ICICI Lombard,30573,Approved
+50416,42780,HDFC Ergo,6259,Pending
+50417,47020,Star Health,39852,Approved
+50418,47152,New India Assurance,17512,Rejected
+50419,40862,New India Assurance,30960,Approved
+50420,41835,HDFC Ergo,3106,Approved
+50421,47070,Star Health,109675,Approved
+50422,42015,ICICI Lombard,108785,Approved
+50423,46941,ICICI Lombard,55452,Approved
+50424,47738,ICICI Lombard,118580,Approved
+50425,46846,Star Health,42870,Approved
+50426,47287,ICICI Lombard,115534,Pending
+50427,45014,HDFC Ergo,118667,Approved
+50428,40186,New India Assurance,73658,Approved
+50429,44022,New India Assurance,70438,Approved
+50430,45246,Star Health,86610,Approved
+50431,43530,Star Health,87811,Pending
+50432,46586,HDFC Ergo,11862,Rejected
+50433,41532,HDFC Ergo,56330,Rejected
+50434,44907,New India Assurance,13551,Approved
+50435,45086,HDFC Ergo,34637,Approved
+50436,47437,HDFC Ergo,55762,Approved
+50437,47027,Star Health,75645,Approved
+50438,41849,HDFC Ergo,109576,Rejected
+50439,42606,HDFC Ergo,39303,Pending
+50440,42680,New India Assurance,77536,Approved
+50441,44747,Star Health,104747,Approved
+50442,41094,New India Assurance,100418,Rejected
+50443,47274,HDFC Ergo,105939,Rejected
+50444,44379,HDFC Ergo,3428,Approved
+50445,45399,HDFC Ergo,91459,Approved
+50446,47796,HDFC Ergo,61536,Rejected
+50447,43285,Star Health,88339,Approved
+50448,42329,New India Assurance,72303,Pending
+50449,41928,ICICI Lombard,15827,Pending
+50450,42280,New India Assurance,30752,Approved
+50451,45391,ICICI Lombard,7922,Approved
+50452,41644,New India Assurance,58332,Approved
+50453,44603,New India Assurance,112866,Approved
+50454,45129,ICICI Lombard,53693,Rejected
+50455,41741,ICICI Lombard,96280,Approved
+50456,41051,ICICI Lombard,109221,Pending
+50457,45777,Star Health,72808,Approved
+50458,43376,New India Assurance,115656,Approved
+50459,47967,Star Health,91772,Approved
+50460,40347,Star Health,37218,Pending
+50461,46217,HDFC Ergo,9229,Rejected
+50462,40210,HDFC Ergo,16266,Approved
+50463,43425,ICICI Lombard,65313,Pending
+50464,40841,Star Health,54565,Approved
+50465,46041,ICICI Lombard,65965,Rejected
+50466,44301,HDFC Ergo,111203,Pending
+50467,41515,Star Health,10294,Rejected
+50468,43323,HDFC Ergo,58239,Approved
+50469,41572,HDFC Ergo,43347,Pending
+50470,45448,HDFC Ergo,26176,Approved
+50471,45814,ICICI Lombard,18481,Pending
+50472,45246,Star Health,63732,Pending
+50473,43517,HDFC Ergo,95143,Approved
+50474,42638,HDFC Ergo,79684,Approved
+50475,44329,ICICI Lombard,93712,Pending
+50476,45258,Star Health,86376,Approved
+50477,43221,HDFC Ergo,76977,Pending
+50478,47891,ICICI Lombard,107337,Approved
+50479,45405,ICICI Lombard,13771,Approved
+50480,47043,Star Health,40289,Rejected
+50481,47164,HDFC Ergo,6288,Approved
+50482,40773,New India Assurance,11788,Approved
+50483,40025,HDFC Ergo,35767,Approved
+50484,40818,New India Assurance,92718,Approved
+50485,43189,HDFC Ergo,59322,Approved
+50486,46129,ICICI Lombard,38041,Rejected
+50487,40235,New India Assurance,34690,Rejected
+50488,44797,Star Health,48294,Approved
+50489,46538,HDFC Ergo,44046,Approved
+50490,40829,Star Health,67696,Rejected
+50491,46197,HDFC Ergo,88861,Approved
+50492,43817,New India Assurance,44011,Approved
+50493,43409,HDFC Ergo,62448,Approved
+50494,43533,Star Health,36145,Rejected
+50495,45493,HDFC Ergo,90541,Approved
+50496,45777,New India Assurance,99269,Approved
+50497,40320,Star Health,6939,Rejected
+50498,42883,ICICI Lombard,21963,Rejected
+50499,46663,HDFC Ergo,85516,Approved
+50500,40320,HDFC Ergo,19376,Approved
+50501,45399,ICICI Lombard,88463,Pending
+50502,47999,HDFC Ergo,57128,Approved
+50503,44705,ICICI Lombard,44490,Pending
+50504,46041,HDFC Ergo,28132,Pending
+50505,45909,Star Health,67318,Approved
+50506,44491,ICICI Lombard,26570,Approved
+50507,43773,Star Health,77377,Pending
+50508,41225,HDFC Ergo,55066,Approved
+50509,46482,ICICI Lombard,5466,Approved
+50510,44027,HDFC Ergo,53075,Rejected
+50511,47363,HDFC Ergo,83434,Approved
+50512,46889,Star Health,87319,Rejected
+50513,45818,New India Assurance,37379,Rejected
+50514,46315,New India Assurance,103462,Rejected
+50515,41360,HDFC Ergo,36918,Approved
+50516,45013,Star Health,73313,Approved
+50517,43459,HDFC Ergo,61534,Approved
+50518,47035,ICICI Lombard,118315,Approved
+50519,44651,ICICI Lombard,73812,Approved
+50520,41224,HDFC Ergo,103105,Approved
+50521,42050,New India Assurance,62824,Approved
+50522,45626,ICICI Lombard,88382,Rejected
+50523,40352,ICICI Lombard,75688,Approved
+50524,40322,ICICI Lombard,14766,Approved
+50525,45390,ICICI Lombard,37273,Approved
+50526,42854,Star Health,16626,Rejected
+50527,45818,Star Health,117018,Approved
+50528,40305,New India Assurance,112126,Approved
+50529,44556,New India Assurance,18793,Approved
+50530,41544,ICICI Lombard,39356,Pending
+50531,46001,New India Assurance,82227,Approved
+50532,46393,ICICI Lombard,10775,Rejected
+50533,41897,ICICI Lombard,44617,Pending
+50534,43623,ICICI Lombard,107544,Approved
+50535,47071,HDFC Ergo,40274,Approved
+50536,46896,Star Health,18162,Pending
+50537,42756,Star Health,16430,Approved
+50538,42479,HDFC Ergo,81295,Approved
+50539,40712,Star Health,84808,Rejected
+50540,41954,ICICI Lombard,58244,Approved
+50541,47400,ICICI Lombard,118237,Pending
+50542,42989,HDFC Ergo,74625,Approved
+50543,45374,Star Health,21134,Pending
+50544,44551,Star Health,8148,Pending
+50545,41196,HDFC Ergo,109788,Approved
+50546,41659,ICICI Lombard,101321,Approved
+50547,47592,Star Health,77164,Pending
+50548,41741,New India Assurance,51791,Pending
+50549,44174,ICICI Lombard,69606,Approved
+50550,47182,ICICI Lombard,35325,Approved
+50551,47326,HDFC Ergo,27734,Rejected
+50552,43906,HDFC Ergo,19393,Approved
+50553,43564,ICICI Lombard,115646,Approved
+50554,46320,ICICI Lombard,9514,Approved
+50555,45730,New India Assurance,17577,Approved
+50556,45402,Star Health,105245,Approved
+50557,42501,ICICI Lombard,99394,Approved
+50558,46858,New India Assurance,115659,Rejected
+50559,46759,ICICI Lombard,75623,Approved
+50560,40882,New India Assurance,68146,Approved
+50561,41659,ICICI Lombard,6604,Rejected
+50562,41743,Star Health,102139,Pending
+50563,45339,ICICI Lombard,7641,Rejected
+50564,47815,ICICI Lombard,33098,Pending
+50565,44632,HDFC Ergo,43702,Approved
+50566,46686,Star Health,66764,Pending
+50567,42226,ICICI Lombard,14314,Rejected
+50568,45725,ICICI Lombard,49366,Rejected
+50569,41985,New India Assurance,58185,Approved
+50570,40079,Star Health,70512,Rejected
+50571,41094,New India Assurance,83342,Approved
+50572,41644,Star Health,4247,Approved
+50573,40540,New India Assurance,87263,Rejected
+50574,41897,HDFC Ergo,95407,Rejected
+50575,40969,ICICI Lombard,9984,Approved
+50576,40456,HDFC Ergo,80129,Rejected
+50577,43661,New India Assurance,24476,Pending
+50578,45804,HDFC Ergo,113363,Pending
+50579,47027,New India Assurance,17946,Pending
+50580,43457,ICICI Lombard,28175,Pending
+50581,41855,HDFC Ergo,119238,Approved
+50582,46773,HDFC Ergo,114900,Approved
+50583,47092,New India Assurance,95650,Approved
+50584,41417,Star Health,32856,Pending
+50585,46274,Star Health,17259,Approved
+50586,43065,New India Assurance,9497,Pending
+50587,42599,New India Assurance,100953,Approved
+50588,42329,ICICI Lombard,50344,Approved
+50589,45658,ICICI Lombard,3777,Approved
+50590,43077,ICICI Lombard,85303,Rejected
+50591,43901,New India Assurance,12507,Approved
+50592,40840,HDFC Ergo,15478,Pending
+50593,41068,HDFC Ergo,110955,Pending
+50594,47407,HDFC Ergo,94982,Approved
+50595,40895,Star Health,100937,Rejected
+50596,46722,Star Health,22420,Pending
+50597,42353,Star Health,109065,Pending
+50598,43249,New India Assurance,75427,Approved
+50599,43773,ICICI Lombard,11504,Pending
+50600,45475,HDFC Ergo,2173,Approved
+50601,41776,HDFC Ergo,54689,Pending
+50602,42094,New India Assurance,76788,Approved
+50603,41257,ICICI Lombard,91905,Approved
+50604,46697,HDFC Ergo,65122,Approved
+50605,40808,HDFC Ergo,55422,Pending
+50606,44700,New India Assurance,32638,Approved
+50607,43644,ICICI Lombard,54999,Approved
+50608,41568,HDFC Ergo,42007,Rejected
+50609,43760,Star Health,35469,Pending
+50610,42387,HDFC Ergo,25409,Approved
+50611,43786,HDFC Ergo,64443,Rejected
+50612,44824,Star Health,81709,Approved
+50613,46856,New India Assurance,48113,Approved
+50614,47177,Star Health,87104,Approved
+50615,40362,New India Assurance,78722,Approved
+50616,44897,ICICI Lombard,73840,Approved
+50617,42466,Star Health,96399,Approved
+50618,40248,HDFC Ergo,45499,Approved
+50619,44001,Star Health,40598,Pending
+50620,41667,New India Assurance,14980,Pending
+50621,40189,HDFC Ergo,117560,Approved
+50622,41535,HDFC Ergo,57791,Pending
+50623,47519,ICICI Lombard,17485,Pending
+50624,45758,New India Assurance,45951,Approved
+50625,40933,ICICI Lombard,30534,Rejected
+50626,41854,HDFC Ergo,3587,Approved
+50627,47999,New India Assurance,7482,Rejected
+50628,43579,Star Health,4249,Approved
+50629,44352,HDFC Ergo,6280,Pending
+50630,47487,New India Assurance,50345,Pending
+50631,47200,HDFC Ergo,117706,Approved
+50632,46505,ICICI Lombard,42596,Approved
+50633,45626,New India Assurance,2905,Approved
+50634,43111,ICICI Lombard,14301,Approved
+50635,41432,ICICI Lombard,50068,Approved
+50636,46015,New India Assurance,41162,Approved
+50637,40601,New India Assurance,46842,Pending
+50638,42917,New India Assurance,113396,Pending
+50639,44181,ICICI Lombard,115640,Approved
+50640,47045,New India Assurance,110834,Approved
+50641,41261,New India Assurance,116868,Approved
+50642,41500,ICICI Lombard,36433,Rejected
+50643,43189,HDFC Ergo,83999,Approved
+50644,47618,ICICI Lombard,44780,Pending
+50645,45558,New India Assurance,82475,Approved
+50646,45519,HDFC Ergo,94041,Approved
+50647,41780,HDFC Ergo,54889,Approved
+50648,43403,Star Health,59658,Rejected
+50649,44897,HDFC Ergo,69998,Rejected
+50650,43169,New India Assurance,9729,Approved
+50651,44650,HDFC Ergo,50735,Pending
+50652,47905,HDFC Ergo,84768,Approved
+50653,47047,Star Health,9496,Approved
+50654,46719,HDFC Ergo,90824,Approved
+50655,43842,Star Health,44963,Approved
+50656,44152,ICICI Lombard,6642,Approved
+50657,45342,New India Assurance,3517,Approved
+50658,41608,ICICI Lombard,60341,Pending
+50659,46280,ICICI Lombard,56159,Approved
+50660,43903,ICICI Lombard,44508,Pending
+50661,43922,New India Assurance,102587,Pending
+50662,47016,New India Assurance,17795,Rejected
+50663,46893,ICICI Lombard,108016,Rejected
+50664,43665,HDFC Ergo,108553,Rejected
+50665,45932,ICICI Lombard,119012,Pending
+50666,43436,Star Health,92314,Pending
+50667,41532,Star Health,16809,Rejected
+50668,45342,HDFC Ergo,64183,Pending
+50669,44172,ICICI Lombard,105310,Approved
+50670,42161,ICICI Lombard,46326,Approved
+50671,43058,ICICI Lombard,87457,Pending
+50672,43401,HDFC Ergo,22643,Approved
+50673,45022,ICICI Lombard,51371,Rejected
+50674,44983,HDFC Ergo,14304,Rejected
+50675,46177,HDFC Ergo,33454,Approved
+50676,40126,HDFC Ergo,53842,Approved
+50677,41500,New India Assurance,53399,Rejected
+50678,45612,New India Assurance,87450,Rejected
+50679,43635,Star Health,50539,Rejected
+50680,40421,Star Health,95782,Approved
+50681,42257,New India Assurance,101123,Rejected
+50682,44522,New India Assurance,76376,Approved
+50683,46397,ICICI Lombard,59441,Pending
+50684,45402,New India Assurance,93476,Approved
+50685,42306,ICICI Lombard,76310,Approved
+50686,42638,HDFC Ergo,63183,Rejected
+50687,45129,HDFC Ergo,18168,Approved
+50688,40490,Star Health,9106,Rejected
+50689,43172,ICICI Lombard,100634,Approved
+50690,46909,ICICI Lombard,50177,Approved
+50691,42475,ICICI Lombard,108071,Approved
+50692,45444,Star Health,35393,Approved
+50693,47645,New India Assurance,22351,Rejected
+50694,40383,HDFC Ergo,8942,Pending
+50695,40872,HDFC Ergo,59589,Approved
+50696,43494,ICICI Lombard,63726,Rejected
+50697,47283,HDFC Ergo,117599,Approved
+50698,40165,New India Assurance,38719,Approved
+50699,40227,ICICI Lombard,112618,Rejected
+50700,40202,Star Health,22083,Approved
+50701,46610,New India Assurance,87176,Rejected
+50702,46830,ICICI Lombard,42262,Pending
+50703,45010,New India Assurance,1139,Approved
+50704,44449,ICICI Lombard,88180,Rejected
+50705,40486,HDFC Ergo,91852,Pending
+50706,44664,Star Health,36717,Approved
+50707,47436,New India Assurance,83226,Approved
+50708,46692,New India Assurance,28179,Approved
+50709,40191,ICICI Lombard,97897,Pending
+50710,43518,ICICI Lombard,84938,Rejected
+50711,47168,New India Assurance,13448,Approved
+50712,43171,HDFC Ergo,7329,Approved
+50713,41515,New India Assurance,118891,Approved
+50714,45700,HDFC Ergo,81302,Approved
+50715,46776,New India Assurance,58308,Approved
+50716,44492,ICICI Lombard,70604,Rejected
+50717,45281,HDFC Ergo,25573,Approved
+50718,47233,Star Health,55496,Rejected
+50719,43857,Star Health,48598,Approved
+50720,42171,ICICI Lombard,6175,Rejected
+50721,47370,New India Assurance,87850,Approved
+50722,40008,New India Assurance,99127,Approved
+50723,42028,Star Health,19357,Approved
+50724,47848,HDFC Ergo,57411,Approved
+50725,44475,HDFC Ergo,106033,Approved
+50726,40957,New India Assurance,109339,Pending
+50727,42597,HDFC Ergo,119899,Approved
+50728,42306,Star Health,33784,Pending
+50729,42599,HDFC Ergo,96956,Pending
+50730,42621,ICICI Lombard,41127,Approved
+50731,46572,HDFC Ergo,63903,Pending
+50732,41592,Star Health,81375,Rejected
+50733,43597,HDFC Ergo,81146,Pending
+50734,41232,Star Health,5306,Pending
+50735,44867,New India Assurance,43716,Approved
+50736,42578,HDFC Ergo,118593,Rejected
+50737,42251,HDFC Ergo,4883,Rejected
+50738,41224,HDFC Ergo,11240,Pending
+50739,43617,Star Health,48689,Approved
+50740,42483,Star Health,17696,Approved
+50741,41039,Star Health,20222,Approved
+50742,41493,HDFC Ergo,26166,Approved
+50743,40547,Star Health,115496,Approved
+50744,46529,New India Assurance,77147,Rejected
+50745,43181,ICICI Lombard,92757,Approved
+50746,45869,HDFC Ergo,99725,Approved
+50747,40198,ICICI Lombard,106619,Approved
+50748,42479,New India Assurance,53594,Rejected
+50749,43638,HDFC Ergo,91546,Approved
+50750,43815,ICICI Lombard,115003,Approved
+50751,40874,ICICI Lombard,43134,Approved
+50752,47879,ICICI Lombard,46406,Rejected
+50753,46199,New India Assurance,26168,Approved
+50754,41876,New India Assurance,92866,Approved
+50755,41835,HDFC Ergo,72781,Approved
+50756,44487,Star Health,116501,Approved
+50757,45732,Star Health,7699,Rejected
+50758,40141,HDFC Ergo,90827,Approved
+50759,41981,ICICI Lombard,21786,Pending
+50760,40338,ICICI Lombard,57406,Approved
+50761,47842,New India Assurance,14171,Pending
+50762,43252,HDFC Ergo,38279,Approved
+50763,45841,Star Health,72678,Pending
+50764,47437,HDFC Ergo,17497,Rejected
+50765,47676,ICICI Lombard,75389,Approved
+50766,41772,ICICI Lombard,68162,Approved
+50767,40523,Star Health,88602,Approved
+50768,46094,HDFC Ergo,28341,Approved
+50769,40767,ICICI Lombard,51378,Rejected
+50770,45815,HDFC Ergo,42932,Approved
+50771,40165,Star Health,93400,Approved
+50772,45869,New India Assurance,13262,Rejected
+50773,40974,Star Health,76849,Approved
+50774,41008,New India Assurance,59212,Pending
+50775,45794,Star Health,85361,Rejected
+50776,40922,New India Assurance,71377,Approved
+50777,40137,New India Assurance,66411,Approved
+50778,42810,Star Health,32818,Pending
+50779,43416,ICICI Lombard,26169,Rejected
+50780,46507,HDFC Ergo,48333,Approved
+50781,47348,New India Assurance,57948,Approved
+50782,43695,ICICI Lombard,42193,Approved
+50783,42065,ICICI Lombard,77410,Rejected
+50784,41044,HDFC Ergo,27065,Approved
+50785,45736,HDFC Ergo,48616,Approved
+50786,41644,Star Health,106457,Pending
+50787,47168,Star Health,114053,Approved
+50788,43958,HDFC Ergo,87752,Approved
+50789,40013,New India Assurance,19676,Approved
+50790,40709,New India Assurance,77905,Approved
+50791,47886,New India Assurance,79000,Rejected
+50792,42254,Star Health,45190,Approved
+50793,44233,New India Assurance,37912,Approved
+50794,45111,Star Health,107252,Approved
+50795,44817,New India Assurance,10782,Approved
+50796,40763,ICICI Lombard,39782,Approved
+50797,47208,HDFC Ergo,85679,Approved
+50798,41754,HDFC Ergo,106570,Approved
+50799,45646,HDFC Ergo,49800,Approved
+50800,40468,New India Assurance,17855,Pending
+50801,46277,ICICI Lombard,11124,Approved
+50802,42428,Star Health,116798,Approved
+50803,47839,Star Health,33637,Approved
+50804,44287,Star Health,29360,Approved
+50805,40515,Star Health,18092,Rejected
+50806,45535,New India Assurance,4044,Pending
+50807,43848,HDFC Ergo,64535,Approved
+50808,40477,HDFC Ergo,17871,Pending
+50809,43403,HDFC Ergo,48825,Approved
+50810,40186,HDFC Ergo,33963,Pending
+50811,40198,ICICI Lombard,29643,Rejected
+50812,43958,ICICI Lombard,79337,Approved
+50813,46484,New India Assurance,43252,Approved
+50814,42002,Star Health,78271,Pending
+50815,45822,ICICI Lombard,57873,Approved
+50816,47583,ICICI Lombard,73593,Approved
+50817,40772,ICICI Lombard,46900,Approved
+50818,43129,ICICI Lombard,26357,Approved
+50819,43104,Star Health,53946,Approved
+50820,43535,New India Assurance,7952,Rejected
+50821,47845,New India Assurance,48116,Pending
+50822,43451,HDFC Ergo,113329,Approved
+50823,46397,HDFC Ergo,105899,Rejected
+50824,40370,Star Health,1191,Rejected
+50825,43931,New India Assurance,74564,Approved
+50826,42971,ICICI Lombard,57531,Approved
+50827,41228,HDFC Ergo,32018,Rejected
+50828,41409,ICICI Lombard,95506,Approved
+50829,47598,New India Assurance,34154,Approved
+50830,45612,Star Health,42982,Approved
+50831,40412,ICICI Lombard,49150,Approved
+50832,46119,New India Assurance,75808,Approved
+50833,40359,ICICI Lombard,21462,Approved
+50834,40696,New India Assurance,118602,Approved
+50835,46502,New India Assurance,27937,Approved
+50836,43272,ICICI Lombard,42207,Approved
+50837,47487,ICICI Lombard,79263,Pending
+50838,42621,HDFC Ergo,49474,Pending
+50839,46089,New India Assurance,21343,Approved
+50840,41577,HDFC Ergo,117800,Pending
+50841,41387,New India Assurance,9650,Approved
+50842,46177,HDFC Ergo,108956,Pending
+50843,40320,ICICI Lombard,26195,Approved
+50844,42819,New India Assurance,107377,Approved
+50845,45626,ICICI Lombard,115473,Approved
+50846,43597,ICICI Lombard,13642,Approved
+50847,43497,ICICI Lombard,36928,Approved
+50848,44187,HDFC Ergo,94270,Approved
+50849,45318,HDFC Ergo,34551,Approved
+50850,43597,HDFC Ergo,106219,Rejected
+50851,46642,ICICI Lombard,91224,Approved
+50852,45043,HDFC Ergo,31565,Approved
+50853,46772,New India Assurance,114485,Approved
+50854,42904,HDFC Ergo,37912,Pending
+50855,47842,HDFC Ergo,69451,Pending
+50856,46802,ICICI Lombard,62891,Rejected
+50857,43714,HDFC Ergo,34399,Approved
+50858,41925,HDFC Ergo,52000,Pending
+50859,42338,HDFC Ergo,24206,Rejected
+50860,41132,HDFC Ergo,39942,Approved
+50861,44144,ICICI Lombard,74506,Approved
+50862,42986,ICICI Lombard,88515,Rejected
+50863,47934,HDFC Ergo,21144,Approved
+50864,46108,ICICI Lombard,37568,Approved
+50865,40374,ICICI Lombard,33697,Approved
+50866,42019,ICICI Lombard,48003,Approved
+50867,40552,HDFC Ergo,21369,Pending
+50868,41236,ICICI Lombard,31555,Rejected
+50869,47843,New India Assurance,87378,Approved
+50870,43403,Star Health,51326,Approved
+50871,42414,HDFC Ergo,75038,Approved
+50872,45777,New India Assurance,32591,Approved
+50873,43005,ICICI Lombard,8553,Approved
+50874,43514,HDFC Ergo,59686,Pending
+50875,42630,HDFC Ergo,65161,Rejected
+50876,42365,Star Health,59226,Approved
+50877,47383,ICICI Lombard,105324,Rejected
+50878,45175,HDFC Ergo,85873,Pending
+50879,47250,Star Health,109842,Rejected
+50880,41755,New India Assurance,71581,Approved
+50881,46001,New India Assurance,106458,Approved
+50882,46625,New India Assurance,106778,Approved
+50883,43785,Star Health,61581,Approved
+50884,44103,ICICI Lombard,74231,Pending
+50885,41209,Star Health,13427,Approved
+50886,43611,HDFC Ergo,69410,Approved
+50887,44696,ICICI Lombard,79458,Approved
+50888,44783,ICICI Lombard,118696,Pending
+50889,46247,HDFC Ergo,88852,Rejected
+50890,41547,New India Assurance,32441,Approved
+50891,45242,ICICI Lombard,110362,Approved
+50892,44549,ICICI Lombard,116238,Rejected
+50893,45764,Star Health,78456,Approved
+50894,40144,Star Health,36238,Pending
+50895,45013,Star Health,102106,Approved
+50896,47842,HDFC Ergo,111565,Approved
+50897,44198,HDFC Ergo,48292,Pending
+50898,46791,ICICI Lombard,51257,Pending
+50899,42265,ICICI Lombard,35682,Approved
+50900,41989,ICICI Lombard,10649,Pending
+50901,42621,ICICI Lombard,104025,Approved
+50902,45874,New India Assurance,66888,Approved
+50903,41239,ICICI Lombard,87330,Approved
+50904,46893,ICICI Lombard,28219,Pending
+50905,46103,HDFC Ergo,29547,Approved
+50906,42817,Star Health,6004,Approved
+50907,47820,ICICI Lombard,50141,Approved
+50908,40001,New India Assurance,4429,Rejected
+50909,47206,ICICI Lombard,48195,Pending
+50910,43829,Star Health,101041,Approved
+50911,44190,HDFC Ergo,45393,Approved
+50912,40482,ICICI Lombard,36198,Rejected
+50913,45770,ICICI Lombard,10623,Approved
+50914,46636,ICICI Lombard,32168,Pending
+50915,45014,HDFC Ergo,116316,Approved
+50916,45558,HDFC Ergo,76997,Approved
+50917,45967,HDFC Ergo,52327,Rejected
+50918,42455,New India Assurance,87887,Rejected
+50919,44348,Star Health,47300,Approved
+50920,43047,New India Assurance,72485,Rejected
+50921,44763,ICICI Lombard,106756,Approved
+50922,41515,Star Health,94854,Approved
+50923,40969,ICICI Lombard,29478,Approved
+50924,43530,Star Health,77543,Rejected
+50925,45908,Star Health,78301,Pending
+50926,41707,HDFC Ergo,35581,Approved
+50927,46156,ICICI Lombard,40603,Approved
+50928,45126,ICICI Lombard,86456,Pending
+50929,41838,New India Assurance,48103,Approved
+50930,45155,HDFC Ergo,1901,Approved
+50931,46185,New India Assurance,14752,Approved
+50932,41380,ICICI Lombard,5983,Approved
+50933,45492,Star Health,84280,Rejected
+50934,46571,Star Health,74206,Rejected
+50935,45794,Star Health,112576,Approved
+50936,42211,ICICI Lombard,119406,Approved
+50937,42630,Star Health,90696,Approved
+50938,45093,Star Health,57554,Approved
+50939,42211,Star Health,64497,Pending
+50940,47354,New India Assurance,28986,Approved
+50941,44348,ICICI Lombard,80025,Approved
+50942,42069,HDFC Ergo,65199,Approved
+50943,40001,New India Assurance,28463,Approved
+50944,47238,Star Health,75505,Pending
+50945,40818,Star Health,111182,Approved
+50946,43817,ICICI Lombard,4258,Approved
+50947,41155,ICICI Lombard,77785,Approved
+50948,40227,HDFC Ergo,54810,Rejected
+50949,41989,Star Health,119888,Approved
+50950,40529,ICICI Lombard,4424,Approved
+50951,43453,ICICI Lombard,39162,Rejected
+50952,46337,ICICI Lombard,63692,Approved
+50953,45703,HDFC Ergo,27216,Rejected
+50954,41532,New India Assurance,41241,Approved
+50955,45175,ICICI Lombard,45088,Pending
+50956,44135,HDFC Ergo,104951,Approved
+50957,45879,ICICI Lombard,1906,Rejected
+50958,46320,HDFC Ergo,60487,Approved
+50959,43835,New India Assurance,94889,Approved
+50960,40601,New India Assurance,50165,Approved
+50961,42311,Star Health,107739,Rejected
+50962,41276,ICICI Lombard,57357,Approved
+50963,46856,Star Health,48171,Approved
+50964,46469,HDFC Ergo,103359,Approved
+50965,40210,ICICI Lombard,29283,Approved
+50966,40291,New India Assurance,47319,Pending
+50967,46159,HDFC Ergo,22601,Rejected
+50968,46846,Star Health,15017,Pending
+50969,46482,New India Assurance,12040,Approved
+50970,43156,HDFC Ergo,93216,Approved
+50971,44753,New India Assurance,105015,Rejected
+50972,42501,HDFC Ergo,54768,Pending
+50973,47883,Star Health,116943,Pending
+50974,42720,New India Assurance,23025,Approved
+50975,40484,New India Assurance,10495,Rejected
+50976,44139,ICICI Lombard,25374,Rejected
+50977,44238,New India Assurance,16681,Pending
+50978,47597,New India Assurance,115158,Rejected
+50979,46579,HDFC Ergo,63820,Approved
+50980,43251,HDFC Ergo,36752,Rejected
+50981,42392,ICICI Lombard,67262,Approved
+50982,46097,ICICI Lombard,49989,Pending
+50983,40240,Star Health,17309,Approved
+50984,43745,HDFC Ergo,35739,Approved
+50985,41386,Star Health,115888,Rejected
+50986,45909,HDFC Ergo,103318,Approved
+50987,43722,ICICI Lombard,43132,Rejected
+50988,42356,ICICI Lombard,24894,Approved
+50989,44993,New India Assurance,107518,Pending
+50990,42623,New India Assurance,48105,Rejected
+50991,40631,HDFC Ergo,115479,Rejected
+50992,47045,ICICI Lombard,4527,Rejected
+50993,47134,HDFC Ergo,77627,Approved
+50994,46840,ICICI Lombard,99956,Approved
+50995,41981,HDFC Ergo,57287,Approved
+50996,46114,ICICI Lombard,74756,Rejected
+50997,43457,New India Assurance,41990,Rejected
+50998,44313,ICICI Lombard,1581,Pending
+50999,43085,HDFC Ergo,7152,Rejected
+51000,40870,New India Assurance,100972,Approved
+51001,41160,ICICI Lombard,14900,Pending
+51002,44543,HDFC Ergo,37247,Rejected
+51003,47592,ICICI Lombard,36060,Approved
+51004,44515,ICICI Lombard,79742,Pending
+51005,44946,HDFC Ergo,53944,Pending
+51006,43551,HDFC Ergo,82559,Rejected
+51007,44110,Star Health,23072,Pending
+51008,43726,Star Health,88459,Approved
+51009,41896,ICICI Lombard,29239,Pending
+51010,44484,New India Assurance,93282,Pending
+51011,40200,Star Health,73173,Rejected
+51012,47814,ICICI Lombard,58136,Rejected
+51013,42698,Star Health,20192,Approved
+51014,44863,Star Health,73939,Approved
+51015,47909,HDFC Ergo,11765,Pending
+51016,46517,ICICI Lombard,90508,Approved
+51017,47260,HDFC Ergo,118737,Approved
+51018,40961,HDFC Ergo,84804,Rejected
+51019,47692,Star Health,42021,Approved
+51020,40362,HDFC Ergo,24082,Rejected
+51021,44961,Star Health,4213,Pending
+51022,40800,Star Health,57114,Approved
+51023,47801,New India Assurance,73955,Approved
+51024,43669,ICICI Lombard,110453,Approved
+51025,40618,ICICI Lombard,77992,Rejected
+51026,40995,ICICI Lombard,44034,Pending
+51027,40330,HDFC Ergo,17305,Approved
+51028,44946,ICICI Lombard,58783,Approved
+51029,41094,New India Assurance,15981,Pending
+51030,42514,HDFC Ergo,31424,Rejected
+51031,40348,ICICI Lombard,114283,Rejected
+51032,45271,Star Health,17783,Pending
+51033,47216,New India Assurance,38907,Approved
+51034,42783,New India Assurance,48202,Approved
+51035,47286,New India Assurance,10545,Pending
+51036,43908,HDFC Ergo,61614,Approved
+51037,47512,ICICI Lombard,74034,Approved
+51038,44134,New India Assurance,25352,Approved
+51039,41276,ICICI Lombard,98392,Approved
+51040,44732,HDFC Ergo,35877,Approved
+51041,41989,Star Health,41931,Approved
+51042,46268,HDFC Ergo,36934,Approved
+51043,44331,ICICI Lombard,30627,Approved
+51044,40980,ICICI Lombard,5818,Approved
+51045,46655,ICICI Lombard,36903,Approved
+51046,43497,New India Assurance,40024,Approved
+51047,40709,Star Health,101615,Approved
+51048,42514,ICICI Lombard,68123,Approved
+51049,47532,HDFC Ergo,104890,Approved
+51050,46613,ICICI Lombard,50840,Approved
+51051,41160,New India Assurance,118486,Pending
+51052,46587,Star Health,65834,Approved
+51053,40281,Star Health,57544,Pending
+51054,43553,HDFC Ergo,78820,Approved
+51055,47215,ICICI Lombard,13500,Approved
+51056,41384,ICICI Lombard,118344,Rejected
+51057,40477,New India Assurance,28842,Rejected
+51058,43401,New India Assurance,55555,Rejected
+51059,40330,New India Assurance,56380,Approved
+51060,45589,New India Assurance,84872,Approved
+51061,43526,New India Assurance,35926,Approved
+51062,47006,New India Assurance,93447,Approved
+51063,41620,Star Health,111892,Approved
+51064,46485,Star Health,3240,Pending
+51065,46973,New India Assurance,45189,Pending
+51066,43022,HDFC Ergo,113847,Approved
+51067,46037,HDFC Ergo,47460,Pending
+51068,42719,ICICI Lombard,109351,Rejected
+51069,40906,New India Assurance,84256,Approved
+51070,45183,HDFC Ergo,35430,Rejected
+51071,46595,New India Assurance,86991,Approved
+51072,45144,HDFC Ergo,74764,Rejected
+51073,40064,Star Health,4020,Approved
+51074,42796,Star Health,39529,Pending
+51075,44896,New India Assurance,115473,Rejected
+51076,41908,Star Health,78039,Rejected
+51077,43107,HDFC Ergo,43440,Pending
+51078,40977,Star Health,57940,Rejected
+51079,40855,Star Health,104301,Approved
+51080,45846,HDFC Ergo,82778,Rejected
+51081,42491,Star Health,86842,Pending
+51082,41659,Star Health,9848,Pending
+51083,43666,New India Assurance,85690,Approved
+51084,45746,ICICI Lombard,108048,Approved
+51085,47249,HDFC Ergo,69037,Rejected
+51086,40048,ICICI Lombard,102682,Pending
+51087,46342,Star Health,17573,Approved
+51088,41435,ICICI Lombard,27144,Rejected
+51089,42629,Star Health,72168,Approved
+51090,42877,HDFC Ergo,116637,Pending
+51091,43580,New India Assurance,36517,Rejected
+51092,40677,Star Health,24515,Approved
+51093,43943,Star Health,105606,Pending
+51094,43129,Star Health,78978,Approved
+51095,42623,HDFC Ergo,22033,Approved
+51096,43129,ICICI Lombard,32799,Rejected
+51097,44071,ICICI Lombard,38051,Approved
+51098,47047,HDFC Ergo,42113,Rejected
+51099,40399,New India Assurance,119421,Rejected
+51100,47802,New India Assurance,80264,Rejected
+51101,41485,HDFC Ergo,62921,Approved
+51102,45992,ICICI Lombard,113735,Approved
+51103,40969,New India Assurance,65929,Approved
+51104,40458,ICICI Lombard,77198,Approved
+51105,47288,ICICI Lombard,60131,Approved
+51106,40773,Star Health,90226,Approved
+51107,43446,Star Health,94754,Approved
+51108,44522,Star Health,101805,Pending
+51109,45578,Star Health,5899,Approved
+51110,41656,New India Assurance,76345,Approved
+51111,43597,HDFC Ergo,115761,Approved
+51112,41593,New India Assurance,54217,Rejected
+51113,41143,New India Assurance,65053,Pending
+51114,44051,HDFC Ergo,76413,Approved
+51115,43901,Star Health,23038,Approved
+51116,45840,Star Health,57945,Approved
+51117,41754,Star Health,105927,Pending
+51118,45822,ICICI Lombard,93938,Approved
+51119,47802,HDFC Ergo,47968,Approved
+51120,40198,HDFC Ergo,14698,Approved
+51121,47260,New India Assurance,89362,Pending
+51122,42232,ICICI Lombard,100066,Approved
+51123,42339,HDFC Ergo,91698,Approved
+51124,41329,HDFC Ergo,84477,Approved
+51125,44755,HDFC Ergo,10878,Pending
+51126,43690,ICICI Lombard,101440,Approved
+51127,40444,ICICI Lombard,47129,Approved
+51128,44574,New India Assurance,4369,Approved
+51129,44487,HDFC Ergo,49375,Rejected
+51130,41618,ICICI Lombard,41050,Approved
+51131,40352,ICICI Lombard,106937,Approved
+51132,47548,ICICI Lombard,69219,Approved
+51133,40552,Star Health,94789,Approved
+51134,44130,New India Assurance,88191,Rejected
+51135,43960,HDFC Ergo,109538,Approved
+51136,47499,New India Assurance,114920,Approved
+51137,40093,Star Health,7539,Approved
+51138,43223,Star Health,87035,Approved
+51139,47394,ICICI Lombard,19535,Approved
+51140,47921,HDFC Ergo,97356,Approved
+51141,45012,HDFC Ergo,27656,Pending
+51142,42807,Star Health,85137,Approved
+51143,44597,ICICI Lombard,63923,Approved
+51144,47696,New India Assurance,29888,Approved
+51145,45115,Star Health,24029,Approved
+51146,42225,New India Assurance,66934,Pending
+51147,40323,HDFC Ergo,95189,Rejected
+51148,45683,Star Health,39065,Approved
+51149,47872,Star Health,17790,Rejected
+51150,45127,New India Assurance,105575,Approved
+51151,47613,HDFC Ergo,45192,Approved
+51152,46856,Star Health,29781,Rejected
+51153,45568,New India Assurance,87048,Approved
+51154,41777,ICICI Lombard,7712,Approved
+51155,43412,Star Health,116751,Pending
+51156,47886,Star Health,114812,Rejected
+51157,46973,HDFC Ergo,69161,Rejected
+51158,47922,Star Health,25241,Approved
+51159,46532,New India Assurance,21452,Approved
+51160,47905,New India Assurance,18483,Rejected
+51161,40470,Star Health,45689,Approved
+51162,42240,Star Health,95306,Approved
+51163,45141,HDFC Ergo,118705,Pending
+51164,40182,New India Assurance,36128,Approved
+51165,40779,New India Assurance,32829,Approved
+51166,44700,HDFC Ergo,60741,Approved
+51167,42390,New India Assurance,2102,Approved
+51168,42727,ICICI Lombard,107031,Rejected
+51169,40787,ICICI Lombard,8787,Approved
+51170,41076,ICICI Lombard,117584,Approved
+51171,44506,HDFC Ergo,114062,Approved
+51172,41493,Star Health,113284,Approved
+51173,42614,New India Assurance,94472,Pending
+51174,43702,HDFC Ergo,83587,Rejected
+51175,47802,New India Assurance,116393,Approved
+51176,46529,HDFC Ergo,31760,Approved
+51177,44596,New India Assurance,77270,Rejected
+51178,42175,Star Health,113251,Approved
+51179,44618,ICICI Lombard,68597,Approved
+51180,41239,Star Health,118874,Approved
+51181,47664,Star Health,81749,Pending
+51182,40624,HDFC Ergo,52255,Approved
+51183,42225,New India Assurance,13182,Pending
+51184,47683,Star Health,66546,Approved
+51185,43302,ICICI Lombard,83553,Approved
+51186,46863,Star Health,25423,Rejected
+51187,43518,New India Assurance,102319,Approved
+51188,43832,ICICI Lombard,81697,Approved
+51189,41276,New India Assurance,95967,Approved
+51190,41928,ICICI Lombard,86630,Approved
+51191,45693,New India Assurance,24472,Pending
+51192,44223,Star Health,101044,Approved
+51193,40965,ICICI Lombard,103950,Approved
+51194,45175,ICICI Lombard,57122,Rejected
+51195,40225,Star Health,95951,Approved
+51196,46854,HDFC Ergo,110421,Pending
+51197,41673,Star Health,83961,Approved
+51198,42192,ICICI Lombard,66715,Approved
+51199,42266,New India Assurance,86467,Approved
+51200,43621,New India Assurance,114003,Approved
+51201,46015,HDFC Ergo,36843,Approved
+51202,47921,ICICI Lombard,16338,Approved
+51203,42387,ICICI Lombard,92425,Approved
+51204,46639,ICICI Lombard,57908,Rejected
+51205,44382,New India Assurance,4585,Pending
+51206,47891,New India Assurance,27881,Rejected
+51207,44767,Star Health,89815,Approved
+51208,43143,HDFC Ergo,61945,Approved
+51209,43273,HDFC Ergo,52078,Pending
+51210,45873,ICICI Lombard,26944,Pending
+51211,45969,Star Health,10853,Approved
+51212,43478,New India Assurance,30097,Rejected
+51213,45391,HDFC Ergo,97651,Approved
+51214,43948,HDFC Ergo,112128,Approved
+51215,42810,New India Assurance,26573,Pending
+51216,46335,ICICI Lombard,94417,Approved
+51217,44979,New India Assurance,19626,Approved
+51218,45043,New India Assurance,85922,Approved
+51219,45073,HDFC Ergo,93858,Approved
+51220,40925,ICICI Lombard,30211,Approved
+51221,47857,Star Health,103374,Pending
+51222,45858,New India Assurance,66454,Approved
+51223,40202,HDFC Ergo,28722,Rejected
+51224,43457,New India Assurance,43855,Approved
+51225,47173,ICICI Lombard,43107,Approved
+51226,47363,ICICI Lombard,25840,Approved
+51227,47363,HDFC Ergo,106165,Approved
+51228,47923,Star Health,109435,Approved
+51229,45381,New India Assurance,112356,Approved
+51230,43280,New India Assurance,33228,Rejected
+51231,46846,New India Assurance,81928,Approved
+51232,47580,ICICI Lombard,58876,Approved
+51233,42917,Star Health,92582,Approved
+51234,46404,ICICI Lombard,39793,Approved
+51235,40597,Star Health,35934,Rejected
+51236,47157,New India Assurance,71698,Approved
+51237,43355,New India Assurance,49539,Pending
+51238,46063,HDFC Ergo,118905,Approved
+51239,45284,HDFC Ergo,102498,Approved
+51240,47580,ICICI Lombard,89132,Approved
+51241,40540,Star Health,5136,Pending
+51242,41600,ICICI Lombard,27923,Approved
+51243,47195,ICICI Lombard,77129,Approved
+51244,43311,HDFC Ergo,76300,Rejected
+51245,46595,ICICI Lombard,6416,Approved
+51246,40361,ICICI Lombard,38017,Approved
+51247,47914,New India Assurance,90459,Pending
+51248,41776,New India Assurance,10504,Approved
+51249,41954,New India Assurance,97357,Approved
+51250,43186,HDFC Ergo,112288,Rejected
+51251,45001,New India Assurance,46475,Approved
+51252,43722,New India Assurance,27380,Approved
+51253,46966,New India Assurance,57872,Rejected
+51254,42339,Star Health,68690,Pending
+51255,47159,Star Health,32766,Rejected
+51256,42586,ICICI Lombard,90216,Approved
+51257,40715,New India Assurance,35869,Approved
+51258,43433,New India Assurance,38601,Approved
+51259,40647,ICICI Lombard,24655,Approved
+51260,41209,ICICI Lombard,76622,Pending
+51261,41896,New India Assurance,42180,Pending
+51262,41318,HDFC Ergo,38459,Approved
+51263,47439,ICICI Lombard,107256,Approved
+51264,47444,ICICI Lombard,40309,Rejected
+51265,41209,New India Assurance,54654,Rejected
+51266,45413,HDFC Ergo,115660,Rejected
+51267,42224,New India Assurance,101799,Approved
+51268,44650,New India Assurance,45840,Rejected
+51269,41435,Star Health,48940,Rejected
+51270,42904,New India Assurance,70929,Approved
+51271,40818,New India Assurance,62338,Rejected
+51272,42288,New India Assurance,3833,Approved
+51273,47926,ICICI Lombard,105186,Approved
+51274,42719,New India Assurance,54780,Approved
+51275,42986,ICICI Lombard,7052,Approved
+51276,47142,New India Assurance,83657,Pending
+51277,45108,Star Health,87072,Approved
+51278,47288,Star Health,75530,Pending
+51279,43521,Star Health,117299,Rejected
+51280,42478,ICICI Lombard,68900,Pending
+51281,47346,ICICI Lombard,32584,Approved
+51282,46616,ICICI Lombard,56242,Approved
+51283,44683,Star Health,21931,Approved
+51284,40728,HDFC Ergo,101963,Rejected
+51285,42696,HDFC Ergo,96700,Pending
+51286,46247,ICICI Lombard,91242,Rejected
+51287,46324,Star Health,56926,Approved
+51288,45873,Star Health,75496,Approved
+51289,46114,New India Assurance,54431,Rejected
+51290,42917,New India Assurance,103052,Approved
+51291,43178,Star Health,95705,Approved
+51292,47105,HDFC Ergo,43759,Approved
+51293,46239,ICICI Lombard,56702,Pending
+51294,45840,ICICI Lombard,43662,Rejected
+51295,46163,Star Health,86935,Approved
+51296,41002,ICICI Lombard,31217,Approved
+51297,41666,Star Health,88409,Rejected
+51298,44722,HDFC Ergo,97921,Approved
+51299,47859,New India Assurance,114395,Approved
+51300,47173,ICICI Lombard,18704,Rejected
+51301,46145,ICICI Lombard,29746,Approved
+51302,45771,ICICI Lombard,109490,Pending
+51303,47227,HDFC Ergo,36432,Approved
+51304,44508,Star Health,43145,Rejected
+51305,41749,ICICI Lombard,99649,Approved
+51306,41485,HDFC Ergo,8825,Rejected
+51307,45284,ICICI Lombard,86229,Approved
+51308,47194,New India Assurance,64265,Pending
+51309,41914,Star Health,112679,Approved
+51310,44681,HDFC Ergo,16309,Rejected
+51311,46211,HDFC Ergo,31956,Approved
+51312,43186,ICICI Lombard,5375,Approved
+51313,41501,HDFC Ergo,55866,Rejected
+51314,43633,ICICI Lombard,59564,Approved
+51315,46152,Star Health,87263,Rejected
+51316,43403,Star Health,99013,Approved
+51317,41232,HDFC Ergo,65657,Approved
+51318,47756,New India Assurance,59485,Approved
+51319,42338,HDFC Ergo,74490,Approved
+51320,41050,Star Health,45680,Approved
+51321,42680,Star Health,75918,Approved
+51322,46342,New India Assurance,4130,Approved
+51323,45899,New India Assurance,37248,Approved
+51324,44730,Star Health,43581,Approved
+51325,42706,ICICI Lombard,54148,Rejected
+51326,40833,ICICI Lombard,51152,Rejected
+51327,44392,HDFC Ergo,11065,Pending
+51328,40812,Star Health,45638,Pending
+51329,40289,HDFC Ergo,38033,Pending
+51330,41232,ICICI Lombard,96985,Pending
+51331,47972,Star Health,92539,Pending
+51332,46103,Star Health,46540,Approved
+51333,40041,New India Assurance,73937,Approved
+51334,45124,HDFC Ergo,75622,Approved
+51335,43521,ICICI Lombard,66320,Pending
+51336,46459,ICICI Lombard,1737,Approved
+51337,43923,New India Assurance,69615,Pending
+51338,41013,New India Assurance,102620,Approved
+51339,45258,Star Health,21751,Approved
+51340,44352,HDFC Ergo,42160,Rejected
+51341,45320,Star Health,76620,Rejected
+51342,42116,New India Assurance,12116,Pending
+51343,46816,Star Health,27139,Rejected
+51344,43419,ICICI Lombard,106201,Approved
+51345,42581,New India Assurance,16815,Pending
+51346,40549,ICICI Lombard,37464,Pending
+51347,43295,Star Health,32682,Pending
+51348,44817,ICICI Lombard,70331,Rejected
+51349,46993,New India Assurance,34005,Pending
+51350,46260,ICICI Lombard,68017,Approved
+51351,42599,HDFC Ergo,62702,Approved
+51352,47765,HDFC Ergo,39251,Approved
+51353,45993,HDFC Ergo,8394,Approved
+51354,40611,HDFC Ergo,45717,Pending
+51355,46858,New India Assurance,93176,Rejected
+51356,46506,New India Assurance,16923,Pending
+51357,45681,HDFC Ergo,62175,Rejected
+51358,45516,Star Health,101766,Approved
+51359,42302,ICICI Lombard,94681,Pending
+51360,47049,Star Health,67798,Approved
+51361,47848,HDFC Ergo,25918,Approved
+51362,43419,Star Health,6345,Approved
+51363,46318,Star Health,73672,Pending
+51364,43848,New India Assurance,80198,Pending
+51365,45635,New India Assurance,54773,Rejected
+51366,47203,Star Health,81056,Pending
+51367,46364,New India Assurance,102065,Rejected
+51368,43630,HDFC Ergo,20410,Pending
+51369,46412,HDFC Ergo,89315,Approved
+51370,46297,HDFC Ergo,62109,Pending
+51371,46226,New India Assurance,27561,Approved
+51372,42713,ICICI Lombard,24137,Approved
+51373,47437,New India Assurance,77980,Approved
+51374,45264,ICICI Lombard,85111,Approved
+51375,44970,Star Health,104797,Approved
+51376,43621,ICICI Lombard,103509,Approved
+51377,47134,ICICI Lombard,69075,Rejected
+51378,40377,HDFC Ergo,109020,Approved
+51379,40688,Star Health,86191,Pending
+51380,41170,ICICI Lombard,82678,Pending
+51381,40281,ICICI Lombard,8946,Rejected
+51382,44403,ICICI Lombard,70210,Pending
+51383,44693,ICICI Lombard,36128,Approved
+51384,45138,Star Health,2880,Pending
+51385,42743,Star Health,112014,Approved
+51386,43468,ICICI Lombard,86772,Approved
+51387,44995,HDFC Ergo,15514,Approved
+51388,44484,HDFC Ergo,26300,Rejected
+51389,40348,Star Health,106809,Approved
+51390,42113,New India Assurance,70821,Approved
+51391,42019,ICICI Lombard,93572,Approved
+51392,42953,HDFC Ergo,48111,Approved
+51393,45989,ICICI Lombard,61563,Pending
+51394,42904,HDFC Ergo,93790,Approved
+51395,47830,HDFC Ergo,12391,Approved
+51396,40291,Star Health,90700,Approved
+51397,46260,HDFC Ergo,15047,Approved
+51398,41555,HDFC Ergo,45317,Approved
+51399,47696,ICICI Lombard,16801,Approved
+51400,41426,New India Assurance,77594,Approved
+51401,45585,HDFC Ergo,29819,Rejected
+51402,42253,New India Assurance,44813,Approved
+51403,41814,ICICI Lombard,31970,Approved
+51404,41825,Star Health,7358,Approved
+51405,47883,ICICI Lombard,113135,Rejected
+51406,42257,ICICI Lombard,12383,Approved
+51407,41958,New India Assurance,18344,Approved
+51408,41525,New India Assurance,20077,Approved
+51409,47824,HDFC Ergo,109715,Approved
+51410,47492,New India Assurance,49064,Rejected
+51411,40749,Star Health,111124,Approved
+51412,41063,ICICI Lombard,115571,Pending
+51413,41152,New India Assurance,30059,Approved
+51414,47819,Star Health,84242,Approved
+51415,42102,Star Health,99782,Approved
+51416,44896,ICICI Lombard,64512,Pending
+51417,44495,HDFC Ergo,37185,Pending
+51418,42589,Star Health,40295,Pending
+51419,45938,New India Assurance,25843,Rejected
+51420,41690,Star Health,26809,Approved
+51421,46236,New India Assurance,45515,Rejected
+51422,46320,New India Assurance,9997,Approved
+51423,41077,ICICI Lombard,10322,Approved
+51424,43478,Star Health,73503,Approved
+51425,47715,New India Assurance,15593,Approved
+51426,43952,New India Assurance,40435,Pending
+51427,44128,ICICI Lombard,51002,Rejected
+51428,47190,ICICI Lombard,73622,Approved
+51429,46873,ICICI Lombard,64216,Rejected
+51430,41357,New India Assurance,61665,Rejected
+51431,45612,New India Assurance,106066,Approved
+51432,45109,ICICI Lombard,72664,Approved
+51433,41659,New India Assurance,62300,Approved
+51434,41122,ICICI Lombard,66449,Approved
+51435,47914,ICICI Lombard,47974,Pending
+51436,45770,New India Assurance,7968,Pending
+51437,41846,ICICI Lombard,83086,Approved
+51438,41624,New India Assurance,33452,Approved
+51439,43943,ICICI Lombard,111707,Approved
+51440,41150,ICICI Lombard,38806,Approved
+51441,45294,HDFC Ergo,1324,Approved
+51442,45664,HDFC Ergo,1852,Pending
+51443,45803,ICICI Lombard,106716,Rejected
+51444,47705,HDFC Ergo,81577,Approved
+51445,40421,ICICI Lombard,103566,Pending
+51446,44583,HDFC Ergo,87711,Approved
+51447,43638,HDFC Ergo,12946,Approved
+51448,46941,Star Health,31750,Approved
+51449,42924,ICICI Lombard,57708,Approved
+51450,40961,ICICI Lombard,97513,Rejected
+51451,45758,New India Assurance,56863,Approved
+51452,44549,New India Assurance,10263,Approved
+51453,47131,New India Assurance,8942,Pending
+51454,42226,ICICI Lombard,1542,Pending
+51455,44022,ICICI Lombard,81822,Pending
+51456,43574,ICICI Lombard,117345,Approved
+51457,46616,Star Health,64046,Rejected
+51458,46320,Star Health,68642,Pending
+51459,43420,New India Assurance,86444,Pending
+51460,47492,Star Health,15495,Approved
+51461,41814,HDFC Ergo,101380,Approved
+51462,47715,HDFC Ergo,70398,Approved
+51463,41664,New India Assurance,101039,Pending
+51464,45731,Star Health,61624,Approved
+51465,43085,HDFC Ergo,116167,Rejected
+51466,47908,ICICI Lombard,111184,Approved
+51467,45236,HDFC Ergo,103383,Rejected
+51468,40210,New India Assurance,63841,Approved
+51469,47768,ICICI Lombard,35300,Pending
+51470,42014,ICICI Lombard,64718,Rejected
+51471,40330,HDFC Ergo,90307,Approved
+51472,47683,New India Assurance,116283,Pending
+51473,45613,HDFC Ergo,12473,Approved
+51474,41276,HDFC Ergo,54902,Rejected
+51475,40957,New India Assurance,54542,Pending
+51476,44682,Star Health,9743,Pending
+51477,45829,Star Health,31085,Approved
+51478,44555,HDFC Ergo,89740,Approved
+51479,46576,Star Health,110026,Approved
+51480,45620,ICICI Lombard,94968,Approved
+51481,47038,New India Assurance,105882,Approved
+51482,41934,Star Health,12149,Approved
+51483,44316,New India Assurance,6859,Pending
+51484,45053,Star Health,45935,Approved
+51485,45483,HDFC Ergo,15698,Rejected
+51486,45138,HDFC Ergo,38447,Pending
+51487,43777,New India Assurance,33472,Pending
+51488,43051,New India Assurance,8857,Pending
+51489,45969,ICICI Lombard,102024,Approved
+51490,44302,HDFC Ergo,73110,Approved
+51491,47288,HDFC Ergo,17122,Approved
+51492,45559,ICICI Lombard,102148,Approved
+51493,42743,ICICI Lombard,37627,Approved
+51494,43873,ICICI Lombard,70551,Approved
+51495,47326,ICICI Lombard,63095,Approved
+51496,41122,Star Health,101790,Approved
+51497,41895,New India Assurance,115924,Approved
+51498,47294,HDFC Ergo,89322,Approved
+51499,43169,ICICI Lombard,31232,Approved
+51500,45342,ICICI Lombard,77196,Approved
+51501,40539,New India Assurance,88810,Approved
+51502,42226,ICICI Lombard,27987,Pending
+51503,43611,HDFC Ergo,107821,Rejected
+51504,47677,New India Assurance,74551,Pending
+51505,45804,Star Health,102566,Approved
+51506,46199,ICICI Lombard,97607,Approved
+51507,47088,Star Health,100642,Approved
+51508,40862,Star Health,90146,Approved
+51509,43031,Star Health,78238,Pending
+51510,43612,New India Assurance,43269,Pending
+51511,40913,HDFC Ergo,109127,Approved
+51512,47582,Star Health,85185,Pending
+51513,43259,New India Assurance,111570,Pending
+51514,43149,HDFC Ergo,7543,Rejected
+51515,43777,New India Assurance,57036,Rejected
+51516,44537,Star Health,115132,Pending
+51517,42809,New India Assurance,15805,Approved
+51518,43287,Star Health,16692,Rejected
+51519,41930,HDFC Ergo,60912,Pending
+51520,44574,New India Assurance,90912,Approved
+51521,45228,New India Assurance,10540,Approved
+51522,47138,ICICI Lombard,94659,Rejected
+51523,43519,HDFC Ergo,30744,Approved
+51524,42145,Star Health,49534,Approved
+51525,47654,Star Health,21414,Rejected
+51526,42916,New India Assurance,110914,Rejected
+51527,40775,HDFC Ergo,87184,Approved
+51528,43142,New India Assurance,71851,Approved
+51529,47531,New India Assurance,92312,Pending
+51530,40584,New India Assurance,17912,Pending
+51531,46830,ICICI Lombard,72799,Pending
+51532,45477,ICICI Lombard,55529,Rejected
+51533,46405,Star Health,65453,Approved
+51534,42381,HDFC Ergo,77865,Approved
+51535,43851,Star Health,10299,Approved
+51536,47945,ICICI Lombard,114289,Approved
+51537,46103,New India Assurance,75592,Approved
+51538,40470,New India Assurance,116015,Approved
+51539,40291,ICICI Lombard,3183,Approved
+51540,40576,Star Health,100624,Approved
+51541,45022,ICICI Lombard,104130,Approved
+51542,45684,New India Assurance,72008,Rejected
+51543,43612,Star Health,56845,Approved
+51544,43263,New India Assurance,10561,Approved
+51545,42291,New India Assurance,100699,Pending
+51546,41857,New India Assurance,77752,Pending
+51547,42113,New India Assurance,53980,Rejected
+51548,43449,Star Health,46001,Pending
+51549,42883,New India Assurance,116779,Pending
+51550,45175,ICICI Lombard,9992,Approved
+51551,41316,HDFC Ergo,70270,Approved
+51552,44134,New India Assurance,56993,Approved
+51553,44897,Star Health,24889,Approved
+51554,44436,ICICI Lombard,15449,Rejected
+51555,43135,New India Assurance,94428,Approved
+51556,45822,ICICI Lombard,97113,Approved
+51557,41602,HDFC Ergo,69056,Pending
+51558,47819,New India Assurance,10328,Rejected
+51559,40020,New India Assurance,12217,Approved
+51560,42930,ICICI Lombard,78631,Approved
+51561,46229,New India Assurance,28175,Approved
+51562,46686,ICICI Lombard,35815,Approved
+51563,45566,HDFC Ergo,54470,Approved
+51564,41629,Star Health,93008,Rejected
+51565,47451,ICICI Lombard,41320,Rejected
+51566,42381,Star Health,88759,Approved
+51567,46146,ICICI Lombard,12435,Approved
+51568,43456,New India Assurance,81379,Pending
+51569,43511,HDFC Ergo,21671,Approved
+51570,41224,Star Health,77767,Rejected
+51571,46177,ICICI Lombard,80219,Approved
+51572,42550,New India Assurance,90652,Approved
+51573,40001,Star Health,39544,Approved
+51574,44506,ICICI Lombard,71602,Pending
+51575,42732,New India Assurance,26996,Rejected
+51576,44424,HDFC Ergo,103394,Approved
+51577,47905,Star Health,98860,Approved
+51578,47236,Star Health,2098,Approved
+51579,47229,ICICI Lombard,108350,Approved
+51580,41074,ICICI Lombard,37624,Approved
+51581,41432,HDFC Ergo,17994,Rejected
+51582,42370,ICICI Lombard,112951,Approved
+51583,47490,ICICI Lombard,84745,Approved
+51584,45070,New India Assurance,10266,Approved
+51585,41065,New India Assurance,52818,Approved
+51586,47243,Star Health,109798,Approved
+51587,41468,New India Assurance,37566,Approved
+51588,47440,New India Assurance,88335,Approved
+51589,44102,New India Assurance,3438,Pending
+51590,42050,ICICI Lombard,12986,Approved
+51591,44250,ICICI Lombard,113875,Pending
+51592,42076,Star Health,7775,Approved
+51593,41991,ICICI Lombard,72075,Approved
+51594,43259,Star Health,41487,Rejected
+51595,43603,Star Health,47225,Approved
+51596,44292,HDFC Ergo,35503,Rejected
+51597,41647,ICICI Lombard,32511,Rejected
+51598,40584,ICICI Lombard,19030,Rejected
+51599,44901,Star Health,54481,Rejected
+51600,42430,Star Health,44749,Approved
+51601,45022,HDFC Ergo,50310,Pending
+51602,45693,ICICI Lombard,103886,Approved
+51603,42810,HDFC Ergo,71582,Pending
+51604,43209,ICICI Lombard,62426,Approved
+51605,45001,New India Assurance,9912,Approved
+51606,44594,Star Health,12863,Pending
+51607,47208,ICICI Lombard,81780,Pending
+51608,42621,HDFC Ergo,84557,Rejected
+51609,43911,ICICI Lombard,104356,Approved
+51610,41170,New India Assurance,13182,Rejected
+51611,47738,ICICI Lombard,99842,Approved
+51612,41328,HDFC Ergo,7233,Rejected
+51613,44320,New India Assurance,53008,Pending
+51614,47261,HDFC Ergo,7954,Approved
+51615,41058,Star Health,43134,Approved
+51616,45111,New India Assurance,114546,Approved
+51617,43835,HDFC Ergo,102836,Approved
+51618,47847,New India Assurance,93178,Pending
+51619,46134,New India Assurance,63429,Approved
+51620,43473,New India Assurance,66518,Pending
+51621,43844,Star Health,15711,Rejected
+51622,43931,ICICI Lombard,17382,Approved
+51623,41133,HDFC Ergo,20846,Rejected
+51624,47842,ICICI Lombard,57686,Approved
+51625,46714,HDFC Ergo,10583,Approved
+51626,44335,ICICI Lombard,43874,Approved
+51627,46015,New India Assurance,15014,Approved
+51628,42557,New India Assurance,29269,Rejected
+51629,43484,HDFC Ergo,46286,Approved
+51630,46335,ICICI Lombard,43798,Rejected
+51631,45139,New India Assurance,33920,Approved
+51632,46296,New India Assurance,50366,Pending
+51633,42180,Star Health,27607,Approved
+51634,42166,ICICI Lombard,93684,Approved
+51635,42173,New India Assurance,45281,Approved
+51636,45386,Star Health,68258,Rejected
+51637,43163,HDFC Ergo,70044,Pending
+51638,42066,ICICI Lombard,9121,Approved
+51639,42171,ICICI Lombard,115815,Rejected
+51640,41993,ICICI Lombard,78349,Rejected
+51641,46745,HDFC Ergo,18550,Approved
+51642,43541,New India Assurance,86327,Approved
+51643,47728,Star Health,76050,Approved
+51644,43154,ICICI Lombard,104798,Pending
+51645,40659,Star Health,111380,Approved
+51646,45815,ICICI Lombard,30810,Approved
+51647,41660,Star Health,113671,Pending
+51648,43899,HDFC Ergo,86796,Approved
+51649,41064,Star Health,107056,Rejected
+51650,41237,HDFC Ergo,26376,Approved
+51651,40184,ICICI Lombard,41501,Rejected
+51652,40370,New India Assurance,1279,Rejected
+51653,47415,ICICI Lombard,38376,Approved
+51654,41220,New India Assurance,75302,Approved
+51655,42732,ICICI Lombard,88327,Approved
+51656,47937,ICICI Lombard,112552,Pending
+51657,46417,ICICI Lombard,79985,Approved
+51658,46585,Star Health,22869,Pending
+51659,45757,ICICI Lombard,111100,Approved
+51660,43638,New India Assurance,102390,Approved
+51661,42449,HDFC Ergo,6967,Approved
+51662,47393,New India Assurance,104852,Approved
+51663,41889,HDFC Ergo,98843,Approved
+51664,40997,HDFC Ergo,42736,Rejected
+51665,42956,HDFC Ergo,25067,Approved
+51666,47765,Star Health,41658,Approved
+51667,47724,New India Assurance,60419,Approved
+51668,40779,Star Health,71873,Rejected
+51669,45835,HDFC Ergo,57951,Approved
+51670,42550,ICICI Lombard,82880,Rejected
+51671,45502,Star Health,95124,Pending
+51672,47848,ICICI Lombard,56036,Approved
+51673,40076,New India Assurance,6295,Pending
+51674,43946,Star Health,30036,Approved
+51675,46983,ICICI Lombard,119381,Approved
+51676,43047,ICICI Lombard,116624,Pending
+51677,43293,New India Assurance,61954,Approved
+51678,46245,ICICI Lombard,53838,Rejected
+51679,41608,ICICI Lombard,72187,Approved
+51680,47922,HDFC Ergo,99462,Approved
+51681,40427,ICICI Lombard,1395,Rejected
+51682,46247,HDFC Ergo,52928,Approved
+51683,47262,HDFC Ergo,53065,Approved
+51684,40879,HDFC Ergo,119581,Approved
+51685,42251,ICICI Lombard,73153,Approved
+51686,44148,HDFC Ergo,94034,Approved
+51687,41939,Star Health,7782,Approved
+51688,43085,HDFC Ergo,38936,Pending
+51689,44828,HDFC Ergo,65098,Approved
+51690,41038,HDFC Ergo,33639,Approved
+51691,40800,HDFC Ergo,85391,Rejected
+51692,41948,HDFC Ergo,97358,Approved
+51693,40427,HDFC Ergo,103703,Approved
+51694,41453,New India Assurance,95585,Rejected
+51695,45073,New India Assurance,15252,Pending
+51696,43453,Star Health,8076,Rejected
+51697,43302,New India Assurance,36929,Pending
+51698,47177,New India Assurance,66434,Approved
+51699,41887,New India Assurance,94153,Approved
+51700,45184,New India Assurance,64110,Approved
+51701,45011,New India Assurance,35079,Pending
+51702,43873,Star Health,5677,Approved
+51703,47262,New India Assurance,99096,Pending
+51704,40170,Star Health,98976,Approved
+51705,40454,Star Health,65789,Rejected
+51706,42641,ICICI Lombard,89482,Pending
+51707,41797,Star Health,92266,Approved
+51708,47576,Star Health,56151,Pending
+51709,43751,New India Assurance,17533,Pending
+51710,43835,Star Health,78903,Approved
+51711,45893,HDFC Ergo,51982,Rejected
+51712,43910,Star Health,14971,Approved
+51713,43376,Star Health,15476,Approved
+51714,46377,New India Assurance,30734,Approved
+51715,43374,ICICI Lombard,17834,Rejected
+51716,45613,Star Health,43034,Approved
+51717,41836,HDFC Ergo,73895,Approved
+51718,41989,ICICI Lombard,45844,Approved
+51719,44901,ICICI Lombard,112507,Approved
+51720,46854,HDFC Ergo,20185,Rejected
+51721,47886,HDFC Ergo,42478,Approved
+51722,45925,ICICI Lombard,29996,Approved
+51723,43952,New India Assurance,87248,Approved
+51724,42623,HDFC Ergo,61600,Approved
+51725,46655,Star Health,56600,Approved
+51726,46693,New India Assurance,64356,Approved
+51727,42806,HDFC Ergo,4183,Rejected
+51728,47423,ICICI Lombard,50324,Approved
+51729,45726,HDFC Ergo,108691,Approved
+51730,41086,New India Assurance,6513,Approved
+51731,45706,Star Health,114361,Approved
+51732,46159,ICICI Lombard,114286,Pending
+51733,47724,New India Assurance,48988,Pending
+51734,40206,New India Assurance,42948,Approved
+51735,46119,HDFC Ergo,10632,Approved
+51736,40582,HDFC Ergo,90555,Approved
+51737,40688,New India Assurance,11260,Pending
+51738,40117,Star Health,113686,Pending
+51739,45736,HDFC Ergo,22387,Pending
+51740,47945,ICICI Lombard,116617,Approved
+51741,41510,New India Assurance,86424,Approved
+51742,47580,New India Assurance,22565,Pending
+51743,45252,Star Health,119895,Approved
+51744,45468,New India Assurance,113243,Pending
+51745,43846,HDFC Ergo,118263,Approved
+51746,43367,HDFC Ergo,96417,Pending
+51747,40444,New India Assurance,4042,Approved
+51748,45900,ICICI Lombard,111381,Approved
+51749,42229,Star Health,71107,Approved
+51750,41800,ICICI Lombard,14415,Rejected
+51751,45673,ICICI Lombard,98887,Approved
+51752,42506,HDFC Ergo,75339,Approved
+51753,40860,Star Health,43580,Rejected
+51754,41335,HDFC Ergo,83304,Approved
+51755,41453,New India Assurance,79336,Pending
+51756,44384,ICICI Lombard,61815,Approved
+51757,40945,HDFC Ergo,84180,Approved
+51758,47346,New India Assurance,14625,Approved
+51759,47612,New India Assurance,49685,Approved
+51760,40015,HDFC Ergo,9350,Pending
+51761,47967,HDFC Ergo,42428,Pending
+51762,40808,New India Assurance,106045,Approved
+51763,47680,Star Health,80342,Approved
+51764,46003,Star Health,104234,Approved
+51765,41450,HDFC Ergo,26507,Pending
+51766,41238,Star Health,29903,Approved
+51767,42930,ICICI Lombard,67660,Rejected
+51768,40390,Star Health,4832,Pending
+51769,43969,ICICI Lombard,77497,Pending
+51770,40980,ICICI Lombard,7333,Approved
+51771,45573,New India Assurance,60832,Approved
+51772,42569,Star Health,105941,Rejected
+51773,43272,Star Health,70556,Approved
+51774,40490,HDFC Ergo,113972,Rejected
+51775,44810,New India Assurance,1236,Approved
+51776,47291,New India Assurance,100178,Rejected
+51777,42023,Star Health,64956,Approved
+51778,45493,HDFC Ergo,55493,Pending
+51779,42617,ICICI Lombard,119554,Approved
+51780,40158,Star Health,1325,Pending
+51781,40086,HDFC Ergo,112645,Approved
+51782,46336,HDFC Ergo,58375,Approved
+51783,40388,HDFC Ergo,4911,Approved
+51784,45535,HDFC Ergo,21015,Pending
+51785,40235,ICICI Lombard,68303,Approved
+51786,45804,New India Assurance,17320,Rejected
+51787,40247,New India Assurance,47995,Approved
+51788,42340,New India Assurance,103760,Approved
+51789,43895,ICICI Lombard,118773,Approved
+51790,42783,ICICI Lombard,21011,Approved
+51791,46527,New India Assurance,71389,Approved
+51792,47987,ICICI Lombard,35500,Rejected
+51793,40454,ICICI Lombard,41404,Approved
+51794,41464,HDFC Ergo,110869,Approved
+51795,40943,New India Assurance,54133,Approved
+51796,44817,Star Health,106683,Approved
+51797,40730,HDFC Ergo,90796,Rejected
+51798,41396,Star Health,49317,Approved
+51799,44160,ICICI Lombard,59609,Approved
+51800,42180,Star Health,25264,Approved
+51801,42872,Star Health,32186,Approved
+51802,45140,ICICI Lombard,14789,Pending
+51803,41529,New India Assurance,102280,Approved
+51804,40706,HDFC Ergo,5636,Pending
+51805,43272,Star Health,16356,Approved
+51806,44807,ICICI Lombard,84873,Approved
+51807,47945,Star Health,8604,Pending
+51808,46597,HDFC Ergo,72019,Rejected
+51809,45484,HDFC Ergo,22577,Approved
+51810,42302,New India Assurance,109116,Approved
+51811,41741,ICICI Lombard,45050,Approved
+51812,46896,ICICI Lombard,61789,Approved
+51813,47427,New India Assurance,88763,Approved
+51814,45196,New India Assurance,22185,Pending
+51815,47294,HDFC Ergo,10379,Approved
+51816,46342,HDFC Ergo,102652,Rejected
+51817,47524,ICICI Lombard,69325,Approved
+51818,43186,Star Health,27876,Approved
+51819,41572,New India Assurance,97342,Approved
+51820,44896,ICICI Lombard,98086,Approved
+51821,46852,ICICI Lombard,78248,Rejected
+51822,43567,HDFC Ergo,19077,Approved
+51823,45070,ICICI Lombard,107195,Rejected
+51824,43287,New India Assurance,95844,Pending
+51825,43478,HDFC Ergo,116017,Approved
+51826,46996,Star Health,115560,Pending
+51827,47977,HDFC Ergo,9271,Rejected
+51828,41699,HDFC Ergo,14752,Pending
+51829,40945,New India Assurance,105178,Rejected
+51830,41903,Star Health,99106,Approved
+51831,47664,HDFC Ergo,77974,Rejected
+51832,43851,HDFC Ergo,13163,Approved
+51833,46636,ICICI Lombard,17336,Pending
+51834,43495,New India Assurance,36922,Approved
+51835,42924,ICICI Lombard,116092,Rejected
+51836,43998,ICICI Lombard,113333,Pending
+51837,45869,Star Health,54064,Approved
+51838,45932,ICICI Lombard,56630,Rejected
+51839,47755,ICICI Lombard,1524,Approved
+51840,47977,New India Assurance,1520,Approved
+51841,43129,ICICI Lombard,8377,Rejected
+51842,41931,ICICI Lombard,12244,Approved
+51843,45115,HDFC Ergo,102309,Approved
+51844,46773,New India Assurance,86322,Approved
+51845,44144,ICICI Lombard,65633,Approved
+51846,43406,Star Health,48268,Rejected
+51847,40879,Star Health,44897,Rejected
+51848,41958,ICICI Lombard,99686,Approved
+51849,40486,New India Assurance,109690,Approved
+51850,43693,HDFC Ergo,66093,Pending
+51851,44014,Star Health,25162,Approved
+51852,41195,ICICI Lombard,7671,Approved
+51853,46735,Star Health,23385,Pending
+51854,40206,New India Assurance,51217,Pending
+51855,45286,New India Assurance,57482,Pending
+51856,42941,HDFC Ergo,24873,Pending
+51857,47208,Star Health,113800,Approved
+51858,47380,ICICI Lombard,23831,Rejected
+51859,44319,Star Health,62359,Approved
+51860,45011,ICICI Lombard,65797,Pending
+51861,42810,New India Assurance,94622,Approved
+51862,47272,New India Assurance,7485,Approved
+51863,45840,HDFC Ergo,62219,Approved
+51864,42475,ICICI Lombard,42714,Approved
+51865,43077,Star Health,55085,Rejected
+51866,45483,New India Assurance,43831,Approved
+51867,43815,ICICI Lombard,3915,Approved
+51868,42614,HDFC Ergo,83847,Approved
+51869,45825,ICICI Lombard,92416,Approved
+51870,40647,ICICI Lombard,91566,Approved
+51871,45806,Star Health,8314,Rejected
+51872,45738,New India Assurance,7395,Approved
+51873,43971,HDFC Ergo,75291,Approved
+51874,46983,ICICI Lombard,54981,Approved
+51875,41232,Star Health,70549,Approved
+51876,42599,New India Assurance,32084,Approved
+51877,43622,HDFC Ergo,106489,Pending
+51878,45284,New India Assurance,55905,Pending
+51879,42817,ICICI Lombard,39999,Approved
+51880,44227,New India Assurance,106149,Rejected
+51881,42324,New India Assurance,24922,Approved
+51882,43406,New India Assurance,13610,Pending
+51883,40861,New India Assurance,69036,Approved
+51884,45144,HDFC Ergo,51761,Approved
+51885,47539,HDFC Ergo,13718,Approved
+51886,47553,New India Assurance,116862,Approved
+51887,45874,New India Assurance,114662,Approved
+51888,42881,ICICI Lombard,62591,Approved
+51889,47897,Star Health,5638,Approved
+51890,40354,Star Health,25119,Approved
+51891,46315,Star Health,20601,Pending
+51892,47208,ICICI Lombard,115573,Approved
+51893,46032,HDFC Ergo,114041,Rejected
+51894,47598,Star Health,54576,Approved
+51895,42918,Star Health,6155,Approved
+51896,45228,HDFC Ergo,12925,Approved
+51897,44368,ICICI Lombard,37942,Approved
+51898,44961,ICICI Lombard,20542,Pending
+51899,44831,ICICI Lombard,54984,Approved
+51900,46107,ICICI Lombard,95414,Approved
+51901,46818,Star Health,84255,Approved
+51902,47383,Star Health,56530,Pending
+51903,45264,New India Assurance,91848,Approved
+51904,47403,New India Assurance,11809,Rejected
+51905,42936,HDFC Ergo,116095,Rejected
+51906,43928,HDFC Ergo,71349,Approved
+51907,47159,New India Assurance,74870,Rejected
+51908,46697,HDFC Ergo,12824,Approved
+51909,43984,Star Health,29737,Pending
+51910,47987,ICICI Lombard,22875,Pending
+51911,47609,Star Health,61753,Rejected
+51912,42877,ICICI Lombard,8164,Approved
+51913,45390,ICICI Lombard,40061,Approved
+51914,46928,HDFC Ergo,102772,Approved
+51915,44730,New India Assurance,20142,Approved
+51916,43245,New India Assurance,91752,Approved
+51917,43842,HDFC Ergo,36969,Approved
+51918,46643,ICICI Lombard,28734,Pending
+51919,45125,Star Health,33178,Pending
+51920,44810,Star Health,33988,Approved
+51921,46532,HDFC Ergo,108247,Approved
+51922,40906,New India Assurance,72140,Rejected
+51923,46377,HDFC Ergo,33993,Pending
+51924,45367,ICICI Lombard,96340,Approved
+51925,41495,New India Assurance,61955,Rejected
+51926,47173,New India Assurance,59898,Pending
+51927,44547,ICICI Lombard,13234,Approved
+51928,41121,ICICI Lombard,97505,Approved
+51929,46901,HDFC Ergo,113533,Approved
+51930,41920,New India Assurance,80662,Pending
+51931,44289,ICICI Lombard,30229,Pending
+51932,43249,ICICI Lombard,3166,Pending
+51933,43952,New India Assurance,66027,Rejected
+51934,44892,New India Assurance,118241,Approved
+51935,42797,ICICI Lombard,41364,Approved
+51936,44322,Star Health,108495,Approved
+51937,45126,ICICI Lombard,32617,Approved
+51938,45537,HDFC Ergo,111812,Approved
+51939,42700,ICICI Lombard,89980,Approved
+51940,40862,Star Health,2858,Approved
+51941,45787,ICICI Lombard,54315,Approved
+51942,45246,HDFC Ergo,95276,Approved
+51943,45895,HDFC Ergo,87244,Approved
+51944,43674,ICICI Lombard,107700,Approved
+51945,40247,HDFC Ergo,80827,Approved
+51946,47027,Star Health,7838,Approved
+51947,45999,New India Assurance,105254,Rejected
+51948,43530,HDFC Ergo,108615,Rejected
+51949,43455,New India Assurance,23047,Rejected
+51950,45374,HDFC Ergo,29737,Pending
+51951,41162,New India Assurance,38711,Rejected
+51952,40454,ICICI Lombard,112490,Approved
+51953,45115,HDFC Ergo,50688,Rejected
+51954,44103,HDFC Ergo,41403,Approved
+51955,42501,Star Health,73386,Approved
+51956,45504,Star Health,24498,Approved
+51957,40549,ICICI Lombard,11797,Approved
+51958,44648,ICICI Lombard,8512,Rejected
+51959,47600,New India Assurance,42051,Pending
+51960,41449,ICICI Lombard,68843,Approved
+51961,40746,New India Assurance,85189,Approved
+51962,41562,Star Health,71529,Approved
+51963,41902,Star Health,63126,Approved
+51964,46366,Star Health,74927,Approved
+51965,46613,HDFC Ergo,74579,Approved
+51966,47449,HDFC Ergo,107686,Approved
+51967,45539,New India Assurance,6421,Pending
+51968,46103,New India Assurance,8537,Rejected
+51969,42680,HDFC Ergo,70564,Rejected
+51970,44596,New India Assurance,46965,Approved
+51971,45585,New India Assurance,23321,Approved
+51972,47053,Star Health,75808,Pending
+51973,46744,HDFC Ergo,69848,Approved
+51974,43433,ICICI Lombard,28488,Approved
+51975,46366,Star Health,60151,Approved
+51976,47250,HDFC Ergo,18446,Approved
+51977,46774,New India Assurance,62438,Approved
+51978,43178,ICICI Lombard,61374,Approved
+51979,44983,ICICI Lombard,77935,Approved
+51980,44917,Star Health,93626,Approved
+51981,42330,HDFC Ergo,12821,Approved
+51982,45884,New India Assurance,33063,Approved
+51983,41408,Star Health,45339,Approved
+51984,46986,ICICI Lombard,108258,Approved
+51985,44649,ICICI Lombard,88954,Pending
+51986,41825,ICICI Lombard,115385,Approved
+51987,41417,ICICI Lombard,110941,Pending
+51988,43712,ICICI Lombard,29700,Approved
+51989,44352,HDFC Ergo,9242,Rejected
+51990,42115,HDFC Ergo,81909,Approved
+51991,40284,New India Assurance,27864,Approved
+51992,45011,ICICI Lombard,37362,Approved
+51993,42711,New India Assurance,98463,Approved
+51994,44014,New India Assurance,97305,Rejected
+51995,45993,HDFC Ergo,11028,Approved
+51996,45391,Star Health,32432,Rejected
+51997,40087,HDFC Ergo,99270,Pending
+51998,40896,Star Health,45454,Rejected
+51999,45700,Star Health,85198,Pending
+52000,46624,Star Health,33320,Rejected
+52001,40296,Star Health,28681,Rejected
+52002,45787,HDFC Ergo,88581,Pending
+52003,42221,Star Health,43260,Approved
+52004,42483,ICICI Lombard,119474,Pending
+52005,42112,HDFC Ergo,55786,Rejected
+52006,47394,Star Health,43727,Approved
+52007,42791,New India Assurance,116434,Approved
+52008,42662,ICICI Lombard,97799,Pending
+52009,47943,HDFC Ergo,103143,Approved
+52010,43007,New India Assurance,10400,Pending
+52011,44173,HDFC Ergo,9899,Rejected
+52012,46879,ICICI Lombard,55229,Approved
+52013,43943,Star Health,53024,Approved
+52014,44551,New India Assurance,77788,Rejected
+52015,43910,ICICI Lombard,11289,Approved
+52016,41991,Star Health,2507,Approved
+52017,47559,Star Health,4576,Approved
+52018,47045,ICICI Lombard,113121,Approved
+52019,47512,Star Health,40566,Approved
+52020,42748,Star Health,32153,Approved
+52021,40814,HDFC Ergo,20262,Rejected
+52022,44332,Star Health,88827,Rejected
+52023,47407,Star Health,114000,Approved
+52024,46507,ICICI Lombard,37008,Rejected
+52025,40458,New India Assurance,86550,Approved
+52026,41566,HDFC Ergo,64909,Approved
+52027,46366,Star Health,55789,Rejected
+52028,40370,ICICI Lombard,55849,Approved
+52029,45022,Star Health,79941,Rejected
+52030,40362,HDFC Ergo,55699,Approved
+52031,42450,ICICI Lombard,92666,Approved
+52032,40416,HDFC Ergo,116997,Pending
+52033,40048,New India Assurance,21257,Approved
+52034,46146,New India Assurance,38301,Approved
+52035,40470,New India Assurance,15620,Rejected
+52036,40627,Star Health,112427,Approved
+52037,43726,HDFC Ergo,46065,Pending
+52038,47561,HDFC Ergo,75322,Rejected
+52039,42538,ICICI Lombard,116039,Approved
+52040,47164,Star Health,84867,Rejected
+52041,47249,ICICI Lombard,15393,Pending
+52042,45015,ICICI Lombard,6689,Pending
+52043,44449,New India Assurance,11468,Pending
+52044,43293,Star Health,84834,Approved
+52045,41224,Star Health,95602,Approved
+52046,47765,New India Assurance,61491,Pending
+52047,40198,HDFC Ergo,107408,Rejected
+52048,43623,Star Health,54700,Pending
+52049,42700,HDFC Ergo,119094,Approved
+52050,47897,Star Health,59389,Rejected
+52051,42817,New India Assurance,5292,Approved
+52052,42986,HDFC Ergo,28496,Rejected
+52053,45460,New India Assurance,45031,Approved
+52054,46639,New India Assurance,118198,Rejected
+52055,44952,HDFC Ergo,47454,Approved
+52056,40564,HDFC Ergo,91052,Pending
+52057,43795,Star Health,90336,Approved
+52058,40855,New India Assurance,29491,Pending
+52059,47580,HDFC Ergo,97822,Approved
+52060,44632,ICICI Lombard,4857,Approved
+52061,47242,New India Assurance,117727,Approved
+52062,45330,New India Assurance,55886,Rejected
+52063,44399,ICICI Lombard,42265,Approved
+52064,42792,ICICI Lombard,17834,Rejected
+52065,43169,HDFC Ergo,95876,Approved
+52066,45813,Star Health,7420,Approved
+52067,47144,HDFC Ergo,3289,Approved
+52068,47158,HDFC Ergo,48465,Approved
+52069,45834,Star Health,10510,Rejected
+52070,42981,New India Assurance,45753,Pending
+52071,47545,HDFC Ergo,79002,Pending
+52072,47943,HDFC Ergo,26952,Approved
+52073,41318,ICICI Lombard,17712,Pending
+52074,45661,ICICI Lombard,64476,Pending
+52075,45471,Star Health,6455,Approved
+52076,44418,HDFC Ergo,83032,Pending
+52077,43835,ICICI Lombard,97089,Approved
+52078,46960,ICICI Lombard,34041,Approved
+52079,44103,New India Assurance,42448,Pending
+52080,41124,ICICI Lombard,87765,Pending
+52081,44632,Star Health,90911,Approved
+52082,47905,ICICI Lombard,72152,Rejected
+52083,46001,New India Assurance,59362,Approved
+52084,43495,HDFC Ergo,50385,Rejected
+52085,40945,HDFC Ergo,97137,Pending
+52086,42039,HDFC Ergo,79613,Approved
+52087,46104,ICICI Lombard,2076,Rejected
+52088,43760,Star Health,7937,Pending
+52089,44887,HDFC Ergo,5274,Rejected
+52090,44664,Star Health,86276,Rejected
+52091,41539,New India Assurance,75835,Approved
+52092,42719,ICICI Lombard,92742,Pending
+52093,46723,Star Health,16721,Approved
+52094,40079,ICICI Lombard,6080,Approved
+52095,42028,Star Health,80000,Rejected
+52096,43322,Star Health,115197,Rejected
+52097,41501,ICICI Lombard,95796,Rejected
+52098,41236,New India Assurance,115104,Pending
+52099,44867,Star Health,108595,Approved
+52100,43433,HDFC Ergo,17715,Approved
+52101,47960,New India Assurance,57701,Pending
+52102,44542,Star Health,25379,Rejected
+52103,45587,ICICI Lombard,116735,Approved
+52104,44092,Star Health,101711,Approved
+52105,41903,New India Assurance,97899,Pending
+52106,47380,HDFC Ergo,52220,Approved
+52107,42216,New India Assurance,40607,Pending
+52108,41658,New India Assurance,115754,Approved
+52109,40647,New India Assurance,92703,Approved
+52110,45381,Star Health,53942,Rejected
+52111,47213,Star Health,43764,Approved
+52112,40281,Star Health,37518,Approved
+52113,42258,ICICI Lombard,33807,Approved
+52114,45589,ICICI Lombard,65977,Approved
+52115,46897,ICICI Lombard,33640,Approved
+52116,41486,New India Assurance,64051,Rejected
+52117,40347,ICICI Lombard,68081,Approved
+52118,45243,HDFC Ergo,2265,Approved
+52119,42370,New India Assurance,107026,Approved
+52120,46689,New India Assurance,70855,Approved
+52121,44223,Star Health,2348,Approved
+52122,45646,HDFC Ergo,74384,Approved
+52123,42989,ICICI Lombard,59423,Approved
+52124,43553,HDFC Ergo,109022,Rejected
+52125,43815,ICICI Lombard,43227,Rejected
+52126,42717,Star Health,22067,Approved
+52127,43058,ICICI Lombard,86487,Approved
+52128,43685,HDFC Ergo,31666,Approved
+52129,42069,ICICI Lombard,117563,Approved
+52130,41602,HDFC Ergo,97430,Approved
+52131,43285,ICICI Lombard,99343,Approved
+52132,44751,ICICI Lombard,53919,Approved
+52133,45663,HDFC Ergo,98029,Approved
+52134,47744,ICICI Lombard,52275,Approved
+52135,46131,ICICI Lombard,34523,Approved
+52136,44738,HDFC Ergo,17290,Approved
+52137,41209,HDFC Ergo,9263,Rejected
+52138,44824,New India Assurance,17377,Pending
+52139,45818,ICICI Lombard,91321,Pending
+52140,45502,HDFC Ergo,10511,Rejected
+52141,40370,HDFC Ergo,40284,Approved
+52142,44110,HDFC Ergo,22352,Approved
+52143,46743,New India Assurance,78903,Approved
+52144,42661,New India Assurance,66417,Approved
+52145,42428,New India Assurance,77878,Approved
+52146,46308,ICICI Lombard,118511,Approved
+52147,42229,HDFC Ergo,67638,Pending
+52148,40158,ICICI Lombard,106979,Approved
+52149,42665,Star Health,112677,Approved
+52150,43306,New India Assurance,40794,Approved
+52151,46767,ICICI Lombard,26155,Approved
+52152,40780,Star Health,61395,Rejected
+52153,42617,Star Health,92742,Rejected
+52154,41900,Star Health,114595,Approved
+52155,43618,ICICI Lombard,60848,Approved
+52156,47291,Star Health,15462,Pending
+52157,46910,Star Health,100621,Approved
+52158,42780,ICICI Lombard,83104,Approved
+52159,43685,HDFC Ergo,14774,Approved
+52160,43251,HDFC Ergo,94618,Approved
+52161,43411,ICICI Lombard,10143,Pending
+52162,47762,Star Health,31014,Approved
+52163,44755,New India Assurance,77440,Approved
+52164,42192,New India Assurance,36515,Pending
+52165,44624,HDFC Ergo,71336,Approved
+52166,43233,New India Assurance,65346,Approved
+52167,42356,ICICI Lombard,52496,Approved
+52168,45825,New India Assurance,10663,Rejected
+52169,41497,Star Health,53185,Rejected
+52170,41396,Star Health,83826,Approved
+52171,40039,New India Assurance,111123,Pending
+52172,47531,HDFC Ergo,53395,Rejected
+52173,43098,HDFC Ergo,49084,Pending
+52174,44772,Star Health,69589,Approved
+52175,40860,ICICI Lombard,6534,Approved
+52176,45084,ICICI Lombard,24010,Approved
+52177,42719,New India Assurance,109564,Approved
+52178,46341,Star Health,22979,Approved
+52179,47682,HDFC Ergo,20966,Approved
+52180,47705,ICICI Lombard,15908,Pending
+52181,44382,ICICI Lombard,7427,Pending
+52182,47024,HDFC Ergo,116761,Approved
+52183,45935,HDFC Ergo,62313,Approved
+52184,45519,New India Assurance,67178,Approved
+52185,45839,HDFC Ergo,84180,Rejected
+52186,47226,New India Assurance,24959,Rejected
+52187,45394,New India Assurance,56381,Rejected
+52188,42875,ICICI Lombard,42330,Pending
+52189,47475,New India Assurance,28122,Pending
+52190,41920,Star Health,84273,Pending
+52191,42356,New India Assurance,4606,Approved
+52192,43952,ICICI Lombard,113172,Pending
+52193,47847,New India Assurance,34986,Rejected
+52194,47931,ICICI Lombard,49833,Approved
+52195,44302,Star Health,82428,Approved
+52196,41706,Star Health,102703,Approved
+52197,43249,ICICI Lombard,37911,Approved
+52198,47079,Star Health,42744,Approved
+52199,44834,Star Health,22104,Rejected
+52200,43411,New India Assurance,56379,Approved
+52201,44747,ICICI Lombard,70303,Rejected
+52202,42868,HDFC Ergo,66639,Pending
+52203,44382,New India Assurance,12205,Approved
+52204,44738,HDFC Ergo,109630,Pending
+52205,41140,HDFC Ergo,117153,Approved
+52206,43370,ICICI Lombard,8111,Pending
+52207,45304,ICICI Lombard,66526,Pending
+52208,42665,Star Health,44105,Approved
+52209,42641,ICICI Lombard,53021,Approved
+52210,43163,Star Health,44984,Approved
+52211,41237,HDFC Ergo,39138,Approved
+52212,46745,HDFC Ergo,90131,Rejected
+52213,41449,New India Assurance,68865,Approved
+52214,40554,Star Health,104488,Rejected
+52215,42059,ICICI Lombard,25900,Rejected
+52216,46660,New India Assurance,41338,Approved
+52217,46474,New India Assurance,57716,Pending
+52218,47233,ICICI Lombard,77125,Rejected
+52219,44045,New India Assurance,80672,Rejected
+52220,43433,HDFC Ergo,1115,Approved
+52221,43042,ICICI Lombard,18568,Approved
+52222,44851,New India Assurance,88734,Approved
+52223,45869,New India Assurance,22993,Approved
+52224,46694,HDFC Ergo,111147,Pending
+52225,40921,HDFC Ergo,22785,Rejected
+52226,41644,New India Assurance,13778,Approved
+52227,42981,Star Health,62779,Approved
+52228,43975,New India Assurance,92685,Pending
+52229,41525,New India Assurance,12266,Approved
+52230,47696,Star Health,9292,Approved
+52231,45265,New India Assurance,114707,Pending
+52232,44796,New India Assurance,43688,Approved
+52233,42927,HDFC Ergo,65667,Approved
+52234,41710,HDFC Ergo,53940,Approved
+52235,46012,Star Health,70098,Pending
+52236,45909,New India Assurance,8673,Approved
+52237,41652,HDFC Ergo,110694,Pending
+52238,42856,ICICI Lombard,6293,Approved
+52239,47261,HDFC Ergo,107613,Approved
+52240,40032,New India Assurance,111616,Approved
+52241,44722,New India Assurance,58613,Approved
+52242,47581,HDFC Ergo,66341,Pending
+52243,47260,ICICI Lombard,97482,Pending
+52244,41344,HDFC Ergo,65685,Approved
+52245,44172,HDFC Ergo,111816,Approved
+52246,45613,ICICI Lombard,77552,Approved
+52247,42630,ICICI Lombard,73309,Approved
+52248,41660,HDFC Ergo,106192,Rejected
+52249,46277,ICICI Lombard,86170,Pending
+52250,47056,Star Health,92909,Rejected
+52251,43722,HDFC Ergo,4714,Approved
+52252,41911,HDFC Ergo,4431,Pending
+52253,45560,HDFC Ergo,36493,Pending
+52254,43584,Star Health,15376,Approved
+52255,42479,New India Assurance,85866,Approved
+52256,42374,HDFC Ergo,13238,Approved
+52257,45806,ICICI Lombard,90644,Rejected
+52258,42924,Star Health,39711,Pending
+52259,40444,Star Health,28427,Pending
+52260,45433,Star Health,53334,Rejected
+52261,46529,Star Health,17192,Approved
+52262,40174,Star Health,59718,Approved
+52263,41914,HDFC Ergo,21324,Rejected
+52264,42629,ICICI Lombard,9909,Rejected
+52265,41593,HDFC Ergo,33222,Pending
+52266,44495,Star Health,50513,Rejected
+52267,41195,Star Health,70434,Pending
+52268,44181,ICICI Lombard,87769,Approved
+52269,42930,Star Health,78140,Pending
+52270,45544,Star Health,62022,Pending
+52271,45956,ICICI Lombard,84328,Pending
+52272,40403,Star Health,38849,Approved
+52273,42069,Star Health,47655,Pending
+52274,44979,Star Health,15414,Rejected
+52275,46211,New India Assurance,34730,Approved
+52276,43065,Star Health,18293,Approved
+52277,42986,ICICI Lombard,35422,Approved
+52278,47092,New India Assurance,20483,Approved
+52279,47074,HDFC Ergo,31187,Approved
+52280,44840,New India Assurance,34286,Rejected
+52281,46739,HDFC Ergo,60821,Approved
+52282,44810,New India Assurance,15386,Pending
+52283,42796,ICICI Lombard,35526,Rejected
+52284,45806,ICICI Lombard,104011,Rejected
+52285,45829,Star Health,51099,Pending
+52286,42219,Star Health,14292,Approved
+52287,42989,HDFC Ergo,5222,Pending
+52288,45264,ICICI Lombard,118805,Approved
+52289,46279,Star Health,64495,Approved
+52290,47802,HDFC Ergo,11289,Approved
+52291,44664,ICICI Lombard,17100,Approved
+52292,47203,ICICI Lombard,112284,Pending
+52293,41209,New India Assurance,1682,Approved
+52294,43051,HDFC Ergo,62044,Approved
+52295,42254,ICICI Lombard,41823,Pending
+52296,44678,New India Assurance,67120,Approved
+52297,42014,New India Assurance,36616,Rejected
+52298,47043,ICICI Lombard,101254,Approved
+52299,45850,ICICI Lombard,55821,Approved
+52300,45073,ICICI Lombard,12165,Pending
+52301,40851,ICICI Lombard,16783,Approved
+52302,40099,Star Health,54503,Pending
+52303,43832,Star Health,95016,Approved
+52304,45774,New India Assurance,96999,Approved
+52305,44884,Star Health,91787,Rejected
+52306,40174,New India Assurance,18532,Approved
+52307,42485,ICICI Lombard,101541,Rejected
+52308,41002,New India Assurance,111380,Approved
+52309,42839,HDFC Ergo,57471,Pending
+52310,41473,HDFC Ergo,98431,Approved
+52311,46239,HDFC Ergo,14533,Pending
+52312,47157,New India Assurance,83943,Rejected
+52313,43514,HDFC Ergo,12316,Approved
+52314,44226,Star Health,116230,Rejected
+52315,44449,New India Assurance,113686,Rejected
+52316,45370,Star Health,109762,Pending
+52317,40063,New India Assurance,15697,Approved
+52318,46114,Star Health,102766,Approved
+52319,46632,ICICI Lombard,76358,Rejected
+52320,47581,ICICI Lombard,22659,Rejected
+52321,44763,ICICI Lombard,69672,Rejected
+52322,40719,ICICI Lombard,67328,Approved
+52323,45558,ICICI Lombard,99184,Rejected
+52324,46854,ICICI Lombard,29156,Approved
+52325,44348,HDFC Ergo,49932,Approved
+52326,43336,New India Assurance,48720,Pending
+52327,44290,Star Health,95456,Pending
+52328,41572,New India Assurance,110306,Rejected
+52329,46194,Star Health,85558,Approved
+52330,40475,Star Health,8267,Approved
+52331,40771,Star Health,25228,Approved
+52332,45874,Star Health,88383,Approved
+52333,40773,ICICI Lombard,78713,Approved
+52334,40241,New India Assurance,51235,Approved
+52335,41836,ICICI Lombard,69456,Approved
+52336,43908,HDFC Ergo,109446,Pending
+52337,43486,ICICI Lombard,47746,Approved
+52338,45252,HDFC Ergo,98553,Approved
+52339,45945,Star Health,86583,Approved
+52340,40481,New India Assurance,64814,Approved
+52341,42873,Star Health,102539,Approved
+52342,43975,Star Health,104569,Approved
+52343,43603,New India Assurance,1838,Rejected
+52344,43650,ICICI Lombard,78349,Approved
+52345,47765,HDFC Ergo,10518,Rejected
+52346,45109,Star Health,70056,Approved
+52347,43962,HDFC Ergo,41227,Approved
+52348,40402,Star Health,22549,Rejected
+52349,44979,ICICI Lombard,18622,Approved
+52350,42372,Star Health,100756,Approved
+52351,46111,ICICI Lombard,83182,Pending
+52352,43272,ICICI Lombard,29146,Approved
+52353,40112,Star Health,56940,Pending
+52354,47173,ICICI Lombard,88513,Approved
+52355,43259,HDFC Ergo,4019,Pending
+52356,46103,New India Assurance,28971,Pending
+52357,41908,New India Assurance,40728,Rejected
+52358,43121,ICICI Lombard,5007,Approved
+52359,44150,HDFC Ergo,63714,Pending
+52360,47400,ICICI Lombard,44723,Pending
+52361,40848,ICICI Lombard,69009,Pending
+52362,41749,New India Assurance,45399,Pending
+52363,46829,ICICI Lombard,56239,Approved
+52364,40759,ICICI Lombard,119686,Approved
+52365,46314,Star Health,109951,Approved
+52366,44027,New India Assurance,52864,Approved
+52367,41228,ICICI Lombard,37478,Approved
+52368,45433,New India Assurance,38870,Approved
+52369,40237,ICICI Lombard,26122,Approved
+52370,43905,ICICI Lombard,19499,Approved
+52371,47848,HDFC Ergo,34348,Pending
+52372,45015,Star Health,116855,Approved
+52373,42720,HDFC Ergo,35270,Rejected
+52374,47682,Star Health,65975,Approved
+52375,47633,Star Health,91537,Rejected
+52376,46108,HDFC Ergo,79308,Approved
+52377,41865,HDFC Ergo,49180,Rejected
+52378,46737,New India Assurance,32084,Pending
+52379,46037,HDFC Ergo,70929,Rejected
+52380,41524,ICICI Lombard,40313,Rejected
+52381,40473,Star Health,13304,Rejected
+52382,42343,New India Assurance,54113,Rejected
+52383,40636,HDFC Ergo,2568,Approved
+52384,42219,New India Assurance,114350,Pending
+52385,42550,Star Health,11394,Approved
+52386,40611,HDFC Ergo,104835,Rejected
+52387,46464,ICICI Lombard,38194,Approved
+52388,41027,HDFC Ergo,10450,Pending
+52389,43822,ICICI Lombard,102233,Approved
+52390,41870,ICICI Lombard,117968,Approved
+52391,40941,HDFC Ergo,76825,Approved
+52392,41387,Star Health,107232,Approved
+52393,46532,New India Assurance,23223,Approved
+52394,40843,Star Health,4409,Pending
+52395,41406,New India Assurance,51898,Rejected
+52396,47317,ICICI Lombard,41205,Approved
+52397,41919,Star Health,45363,Pending
+52398,40063,ICICI Lombard,30419,Approved
+52399,43518,HDFC Ergo,29009,Approved
+52400,42641,ICICI Lombard,51908,Approved
+52401,47933,New India Assurance,41220,Approved
+52402,47363,Star Health,51994,Approved
+52403,46986,Star Health,23721,Approved
+52404,40843,Star Health,36429,Rejected
+52405,41427,HDFC Ergo,92022,Approved
+52406,47819,New India Assurance,4219,Approved
+52407,43623,Star Health,82258,Rejected
+52408,46909,HDFC Ergo,45086,Pending
+52409,41002,ICICI Lombard,7955,Pending
+52410,42809,HDFC Ergo,25826,Pending
+52411,42161,HDFC Ergo,2874,Approved
+52412,42806,New India Assurance,92812,Approved
+52413,41481,New India Assurance,26500,Rejected
+52414,43771,New India Assurance,44474,Rejected
+52415,47293,HDFC Ergo,51386,Pending
+52416,44697,ICICI Lombard,46724,Approved
+52417,46274,New India Assurance,99216,Pending
+52418,46053,ICICI Lombard,9793,Approved
+52419,47152,ICICI Lombard,83092,Approved
+52420,42375,HDFC Ergo,66769,Rejected
+52421,46258,HDFC Ergo,44186,Rejected
+52422,41930,HDFC Ergo,77249,Approved
+52423,46616,Star Health,115314,Approved
+52424,43771,New India Assurance,111018,Approved
+52425,45336,Star Health,102304,Pending
+52426,40789,ICICI Lombard,29068,Approved
+52427,45448,New India Assurance,16211,Pending
+52428,42265,ICICI Lombard,77841,Approved
+52429,42806,New India Assurance,33995,Approved
